@@ -1,0 +1,104 @@
+{% extends 'base.html.twig' %}
+{% block body %}
+<div class="container">
+  <div class="row">
+    <form role="form" method="POST">
+      <input type="hidden" name="sentences" id="sentences" />
+      <div class="col-md-6">
+        <h2>Tekst</h2>
+        <p>
+        {% for key, sentence in text %}
+            <span class="sentence {{ key % 2 ? 'alternate' : '' }}" id="s{{ key }}">{{ sentence }}</span>
+        {% endfor %}
+        </p>
+      </div>
+      <div class="col-md-6">
+        <h2>Streszczenie</h2>
+        <table class="table" id="extract">
+        </table>
+        <p>Wybrane zdania: <span id="extractActualSize">0</span>/<span id="extractTotalSize">{{ extractSize }}</span></p>
+        <p>&nbsp;</p>
+        <button type="submit" id="extract-btn" class="btn btn-primary" disabled="disabled">Zapisz streszczenie</button>
+      </div>
+    </form>
+  </div>
+</div>
+<script>
+$("span.sentence").click(function() {
+    if ($(this).hasClass('selected')) {
+        $(this).removeClass('selected');
+        $('#x_' + $(this).attr('id')).remove();
+    } else {
+        if (extractSizeExceeded()) {
+            return;
+        }
+
+        $('#extract').append('<tr class="success" id="x_'+ $(this).attr('id') +'"><td>' + $(this).text() + '</td>' + 
+            '<td><span class="glyphicon glyphicon-circle-arrow-up"></span></td>' + 
+            '<td><span class="glyphicon glyphicon-circle-arrow-down"></span></td>' + 
+            '<td><span class="glyphicon glyphicon-remove-circle"></span></td></tr>');
+        $(this).addClass('selected');
+    }
+
+    updateSentenceCounter();
+    updateSubmitButton();
+    setupClickHandlers();
+    updateForm();
+});
+
+function updateSentenceCounter() {
+    var sentencesNumber = $('#extract >tbody >tr').length;
+    $('#extractActualSize').text(sentencesNumber);
+}
+
+function extractSizeExceeded() {
+    var sentencesNumber = $('#extract >tbody >tr').length;
+
+    return sentencesNumber >= parseInt($('#extractTotalSize').text());
+}
+
+function updateSubmitButton() {
+    $('#extract-btn').prop('disabled', !extractSizeExceeded());
+}
+
+function setupClickHandlers() {
+    $(".glyphicon-circle-arrow-up").on('click', function() {
+        var row = $(this).parents("tr:first");
+        row.insertBefore(row.prev());
+        row.hide();
+        row.fadeIn();
+
+        updateForm();
+    });
+
+    $(".glyphicon-circle-arrow-down").on('click', function() {
+        var row = $(this).parents("tr:first");
+        row.insertAfter(row.next());
+        row.hide();
+        row.fadeIn();
+
+        updateForm();
+    });
+
+    $(".glyphicon-remove-circle").on('click', function() {
+        var row = $(this).parents("tr:first");
+        $('#' + row.attr('id').substring(2)).removeClass('selected');
+        row.remove();
+
+        updateSentenceCounter();
+        updateForm();
+    });
+}
+
+function updateForm() {
+    var ids =  [];
+
+    $("#extract tbody tr").each(function() {
+        $this = $(this)
+        ids.push($this.attr('id').substring(3));
+    });
+    $('#sentences').val(ids.join(','));
+}
+
+</script>
+{% endblock %}
