@@ -1,23 +1,42 @@
 {% extends 'base.html.twig' %}
 {% block body %}
 <div class="container">
+  {% for message in app.session.getFlashBag.get('message') %}
+      <div class="alert alert-success">{{ message }}</div>
+  {% endfor %}
   <div class="row">
     <form role="form" method="POST">
       <input type="hidden" name="sentences" id="sentences" />
+      <input type="hidden" name="doc" id="doc" value="{{ docName }}" />
       <div class="col-md-6">
         <h2>Tekst</h2>
-        <p>
-        {% for key, sentence in text %}
-            <span class="sentence {{ key % 2 ? 'alternate' : '' }}" id="s{{ key }}">{{ sentence }}</span>
+        <div class="alert alert-info">
+            Kliknij wybrane zdania poniżej, aby dodać je do streszczenia.
+        </div>
+        {% set index = 0 %}
+        {% for paragraph in text %}
+            <p>
+            {% for sentence in paragraph %}
+                <span class="sentence {{ index % 2 ? 'alternate' : '' }}" id="s{{ index }}">{{ sentence }}</span>
+                {% set index = index + 1 %}
+            {% endfor %}
+            </p>
         {% endfor %}
-        </p>
       </div>
       <div class="col-md-6">
         <h2>Streszczenie</h2>
         <table class="table" id="extract">
         </table>
         <p>Wybrane zdania: <span id="extractActualSize">0</span>/<span id="extractTotalSize">{{ extractSize }}</span></p>
-        <p>&nbsp;</p>
+        <div class="alert alert-info">
+        <h4>Wskazówki</h4>
+        <ul>
+            <li>Celem streszczenia jest uzyskanie <strong>krótkiego, zwięzłego tekstu</strong>, który odwzorowuje strukturę oryginału i jego <strong>główną myśl</strong>.</li>
+            <li>Czytając tekst spróbuj wyłapać jego główną myśl na podstawie <strong>najczęściej powtarzających się słów</strong>, ich synonimów i wyrazów powiązanych z głównym wątkiem.</li>
+            <li><strong>Pomiń powtórzenia</strong> i informacje mniej istotne.</li>
+            <li><strong>Uporządkuj</strong> zdania w logicznej kolejności, oddającej kolejność myśli w oryginale.</li>
+        </ul>
+        </div>
         <button type="submit" id="extract-btn" class="btn btn-primary" disabled="disabled">Zapisz streszczenie</button>
       </div>
     </form>
