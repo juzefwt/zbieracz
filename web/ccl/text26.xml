@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE cesAna SYSTEM "xcesAnaIPI.dtd">
-<cesAna xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" type="lex disamb">
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
 <chunkList>
  <chunk id="ch1">
-  <chunk type="s">
+  <sentence id="s1">
    <tok>
     <orth>Otwarto</orth>
     <lex disamb="1"><base>otworzyć</base><ctag>imps:perf</ctag></lex>
@@ -16,10 +15,10 @@
     <orth>ALMA</orth>
     <lex disamb="1"><base>ALMA</base><ctag>ign</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch2">
-  <chunk type="s">
+  <sentence id="s2">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -148,8 +147,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s3">
    <tok>
     <orth>Gościem</orth>
     <lex disamb="1"><base>gość</base><ctag>subst:sg:inst:m1</ctag></lex>
@@ -189,8 +188,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s4">
    <tok>
     <orth>ALMA</orth>
     <lex disamb="1"><base>ALMA</base><ctag>ign</ctag></lex>
@@ -349,8 +348,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s5">
    <tok>
     <orth>Sieć</orth>
     <lex disamb="1"><base>sieć</base><ctag>subst:sg:nom:f</ctag></lex>
@@ -380,8 +379,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s6">
    <tok>
     <orth>Obserwatorium</orth>
     <lex disamb="1"><base>obserwatorium</base><ctag>subst:sg:nom:n</ctag></lex>
@@ -435,8 +434,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s7">
    <tok>
     <orth>ALMA</orth>
     <lex disamb="1"><base>ALMA</base><ctag>ign</ctag></lex>
@@ -484,10 +483,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch3">
-  <chunk type="s">
+  <sentence id="s8">
    <tok>
     <orth>Radioteleskopy</orth>
     <lex disamb="1"><base>radioteleskop</base><ctag>subst:pl:nom:m3</ctag></lex>
@@ -533,8 +532,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s9">
    <tok>
     <orth>Zobaczymy</orth>
     <lex disamb="1"><base>zobaczyć</base><ctag>fin:pl:pri:perf</ctag></lex>
@@ -618,8 +617,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s10">
    <tok>
     <orth>Zobaczymy</orth>
     <lex disamb="1"><base>zobaczyć</base><ctag>fin:pl:pri:perf</ctag></lex>
@@ -661,8 +660,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s11">
    <tok>
     <orth>ALMA</orth>
     <lex disamb="1"><base>ALMA</base><ctag>ign</ctag></lex>
@@ -758,10 +757,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch4">
-  <chunk type="s">
+  <sentence id="s12">
    <tok>
     <orth>Obraz</orth>
     <lex disamb="1"><base>obraz</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -987,8 +986,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s13">
    <tok>
     <orth>Superkomputer</orth>
     <lex disamb="1"><base>superkomputer</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -1047,10 +1046,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch5">
-  <chunk type="s">
+  <sentence id="s14">
    <tok>
     <orth>Maksymalna</orth>
     <lex disamb="1"><base>maksymalny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
@@ -1115,10 +1114,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch6">
-  <chunk type="s">
+  <sentence id="s15">
    <tok>
     <orth>ALMA</orth>
     <lex disamb="1"><base>ALMA</base><ctag>ign</ctag></lex>
@@ -1212,8 +1211,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s16">
    <tok>
     <orth>Projekt</orth>
     <lex disamb="1"><base>projekt</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -1519,8 +1518,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s17">
    <tok>
     <orth>Konstrukcja</orth>
     <lex disamb="1"><base>konstrukcja</base><ctag>subst:sg:nom:f</ctag></lex>
@@ -1665,8 +1664,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s18">
    <tok>
     <orth>(</orth>
     <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
@@ -1750,8 +1749,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s19">
    <tok>
     <orth>Joint</orth>
     <lex disamb="1"><base>joint</base><ctag>subst:sg:nom:m2</ctag></lex>
@@ -1828,7 +1827,6 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
 </chunkList>
-</cesAna>

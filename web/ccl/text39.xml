@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE cesAna SYSTEM "xcesAnaIPI.dtd">
-<cesAna xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" type="lex disamb">
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
 <chunkList>
  <chunk id="ch1">
-  <chunk type="s">
+  <sentence id="s1">
    <tok>
     <orth>Zamek</orth>
     <lex disamb="1"><base>zamek</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -16,10 +15,10 @@
     <orth>Rzeszowie</orth>
     <lex disamb="1"><base>Rzeszów</base><ctag>subst:sg:loc:m3</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch2">
-  <chunk type="s">
+  <sentence id="s2">
    <tok>
     <orth>Zamek</orth>
     <lex disamb="1"><base>zamek</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -107,8 +106,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s3">
    <tok>
     <orth>Jest</orth>
     <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
@@ -209,8 +208,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s4">
    <tok>
     <orth>Aktualnie</orth>
     <lex disamb="1"><base>aktualnie</base><ctag>adv:pos</ctag></lex>
@@ -273,10 +272,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch3">
-  <chunk type="s">
+  <sentence id="s5">
    <tok>
     <orth>Pierwsza</orth>
     <lex disamb="1"><base>pierwsza</base><ctag>subst:sg:nom:f</ctag></lex>
@@ -334,8 +333,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s6">
    <tok>
     <orth>Następnie</orth>
     <lex disamb="1"><base>następnie</base><ctag>adv</ctag></lex>
@@ -397,8 +396,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s7">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -440,8 +439,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s8">
    <tok>
     <orth>Od</orth>
     <lex disamb="1"><base>od</base><ctag>prep:gen:nwok</ctag></lex>
@@ -475,8 +474,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s9">
    <tok>
     <orth>Główne</orth>
     <lex disamb="1"><base>główny</base><ctag>adj:sg:nom:n:pos</ctag></lex>
@@ -534,8 +533,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s10">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -601,8 +600,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s11">
    <tok>
     <orth>Jego</orth>
     <lex disamb="1"><base>on</base><ctag>ppron3:sg:gen:m1:ter:akc:npraep</ctag></lex>
@@ -662,8 +661,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s12">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -721,10 +720,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch4">
-  <chunk type="s">
+  <sentence id="s13">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -771,10 +770,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch5">
-  <chunk type="s">
+  <sentence id="s14">
    <tok>
     <orth>Fundatorem</orth>
     <lex disamb="1"><base>fundator</base><ctag>subst:sg:inst:m1</ctag></lex>
@@ -844,8 +843,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s15">
    <tok>
     <orth>Ziemię</orth>
     <lex disamb="1"><base>Ziemia</base><ctag>subst:sg:acc:f</ctag></lex>
@@ -929,8 +928,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s16">
    <tok>
     <orth>Resztę</orth>
     <lex disamb="1"><base>reszta</base><ctag>subst:sg:acc:f</ctag></lex>
@@ -980,10 +979,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch6">
-  <chunk type="s">
+  <sentence id="s17">
    <tok>
     <orth>Stolica</orth>
     <lex disamb="1"><base>stolica</base><ctag>subst:sg:nom:f</ctag></lex>
@@ -1054,8 +1053,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s18">
    <tok>
     <orth>Prawdopodobnie</orth>
     <lex disamb="1"><base>prawdopodobnie</base><ctag>adv:pos</ctag></lex>
@@ -1114,8 +1113,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s19">
    <tok>
     <orth>Jeśli</orth>
     <lex disamb="1"><base>jeśli</base><ctag>comp</ctag></lex>
@@ -1198,8 +1197,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s20">
    <tok>
     <orth>Obszerny</orth>
     <lex disamb="1"><base>obszerny</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
@@ -1272,8 +1271,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s21">
    <tok>
     <orth>Na</orth>
     <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
@@ -1307,8 +1306,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s22">
    <tok>
     <orth>Ligęza</orth>
     <lex disamb="1"><base>Ligęza</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -1380,10 +1379,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch7">
-  <chunk type="s">
+  <sentence id="s23">
    <tok>
     <orth>O</orth>
     <lex disamb="1"><base>o</base><ctag>prep:acc</ctag></lex>
@@ -1439,8 +1438,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s24">
    <tok>
     <orth>Nie</orth>
     <lex disamb="1"><base>nie</base><ctag>conj</ctag></lex>
@@ -1503,8 +1502,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s25">
    <tok>
     <orth>Najwięcej</orth>
     <lex disamb="1"><base>dużo</base><ctag>adv:sup</ctag></lex>
@@ -1562,10 +1561,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch8">
-  <chunk type="s">
+  <sentence id="s26">
    <tok>
     <orth>Podstawowym</orth>
     <lex disamb="1"><base>podstawowy</base><ctag>adj:sg:inst:m1:pos</ctag></lex>
@@ -1633,8 +1632,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s27">
    <tok>
     <orth>Miał</orth>
     <lex disamb="1"><base>miał</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -1684,8 +1683,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s28">
    <tok>
     <orth>Przy</orth>
     <lex disamb="1"><base>przy</base><ctag>prep:loc</ctag></lex>
@@ -1756,8 +1755,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s29">
    <tok>
     <orth>Cały</orth>
     <lex disamb="1"><base>cały</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
@@ -1829,8 +1828,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s30">
    <tok>
     <orth>Trzy</orth>
     <lex disamb="1"><base>trzy</base><ctag>num:pl:nom:m2:congr</ctag></lex>
@@ -1899,8 +1898,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s31">
    <tok>
     <orth>Fortyfikacje</orth>
     <lex disamb="1"><base>fortyfikacja</base><ctag>subst:pl:nom:f</ctag></lex>
@@ -1956,8 +1955,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s32">
    <tok>
     <orth>Być</orth>
     <lex disamb="1"><base>być</base><ctag>inf:imperf</ctag></lex>
@@ -2001,8 +2000,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s33">
    <tok>
     <orth>Nic</orth>
     <lex disamb="1"><base>nic</base><ctag>subst:sg:nom:n</ctag></lex>
@@ -2081,8 +2080,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s34">
    <tok>
     <orth>Brama</orth>
     <lex disamb="1"><base>brama</base><ctag>subst:sg:nom:f</ctag></lex>
@@ -2150,10 +2149,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch9">
-  <chunk type="s">
+  <sentence id="s35">
    <tok>
     <orth>Prawdopodobnie</orth>
     <lex disamb="1"><base>prawdopodobnie</base><ctag>adv:pos</ctag></lex>
@@ -2268,8 +2267,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s36">
    <tok>
     <orth>Przy</orth>
     <lex disamb="1"><base>przy</base><ctag>prep:loc</ctag></lex>
@@ -2345,8 +2344,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s37">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -2459,8 +2458,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s38">
    <tok>
     <orth>Mikołaj</orth>
     <lex disamb="1"><base>Mikołaj</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -2510,8 +2509,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s39">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -2557,8 +2556,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s40">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -2707,8 +2706,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s41">
    <tok>
     <orth>Wszystkie</orth>
     <lex disamb="1"><base>wszystek</base><ctag>adj:sg:nom:n:pos</ctag></lex>
@@ -2796,10 +2795,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch10">
-  <chunk type="s">
+  <sentence id="s42">
    <tok>
     <orth>Nowy</orth>
     <lex disamb="1"><base>nowy</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -2850,8 +2849,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s43">
    <tok>
     <orth>Z</orth>
     <lex disamb="1"><base>z</base><ctag>qub</ctag></lex>
@@ -2961,8 +2960,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s44">
    <tok>
     <orth>Mury</orth>
     <lex disamb="1"><base>mur</base><ctag>subst:pl:nom:m3</ctag></lex>
@@ -3004,8 +3003,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s45">
    <tok>
     <orth>Czwarte</orth>
     <lex disamb="1"><base>czwarta</base><ctag>subst:pl:nom:f</ctag></lex>
@@ -3043,8 +3042,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s46">
    <tok>
     <orth>Inwestycji</orth>
     <lex disamb="1"><base>inwestycja</base><ctag>subst:sg:gen:f</ctag></lex>
@@ -3143,8 +3142,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s47">
    <tok>
     <orth>Podczas</orth>
     <lex disamb="1"><base>podczas</base><ctag>prep:gen</ctag></lex>
@@ -3174,8 +3173,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s48">
    <tok>
     <orth>Prawdopodobnie</orth>
     <lex disamb="1"><base>prawdopodobnie</base><ctag>adv:pos</ctag></lex>
@@ -3229,8 +3228,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s49">
    <tok>
     <orth>Fortyfikacje</orth>
     <lex disamb="1"><base>fortyfikacja</base><ctag>subst:pl:nom:f</ctag></lex>
@@ -3335,10 +3334,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch11">
-  <chunk type="s">
+  <sentence id="s50">
    <tok>
     <orth>Ligęza</orth>
     <lex disamb="1"><base>Ligęza</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -3360,8 +3359,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s51">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -3435,10 +3434,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch12">
-  <chunk type="s">
+  <sentence id="s52">
    <tok>
     <orth>Ligęza</orth>
     <lex disamb="1"><base>Ligęza</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -3485,8 +3484,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s53">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -3556,8 +3555,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s54">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -3656,8 +3655,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s55">
    <tok>
     <orth>Był</orth>
     <lex disamb="1"><base>być</base><ctag>praet:sg:m1:imperf</ctag></lex>
@@ -3740,8 +3739,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s56">
    <tok>
     <orth>Za</orth>
     <lex disamb="1"><base>za</base><ctag>qub</ctag></lex>
@@ -3821,8 +3820,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s57">
    <tok>
     <orth>Powodem</orth>
     <lex disamb="1"><base>powód</base><ctag>subst:sg:inst:m1</ctag></lex>
@@ -3925,8 +3924,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s58">
    <tok>
     <orth>Za</orth>
     <lex disamb="1"><base>za</base><ctag>qub</ctag></lex>
@@ -4001,8 +4000,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s59">
    <tok>
     <orth>Fortyfikacje</orth>
     <lex disamb="1"><base>fortyfikacja</base><ctag>subst:pl:nom:f</ctag></lex>
@@ -4079,8 +4078,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s60">
    <tok>
     <orth>Dodatkowe</orth>
     <lex disamb="1"><base>dodatkowy</base><ctag>adj:sg:nom:n:pos</ctag></lex>
@@ -4119,8 +4118,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s61">
    <tok>
     <orth>Lubomirski</orth>
     <lex disamb="1"><base>Lubomirski</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -4215,8 +4214,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s62">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -4287,10 +4286,10 @@
     <orth>:</orth>
     <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch13">
-  <chunk type="s">
+  <sentence id="s63">
    <tok>
     <orth>Na</orth>
     <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
@@ -4358,8 +4357,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s64">
    <tok>
     <orth>Ciężko</orth>
     <lex disamb="1"><base>ciężko</base><ctag>adv:pos</ctag></lex>
@@ -4409,8 +4408,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s65">
    <tok>
     <orth>Wszystko</orth>
     <lex disamb="1"><base>wszystko</base><ctag>adv</ctag></lex>
@@ -4493,10 +4492,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch14">
-  <chunk type="s">
+  <sentence id="s66">
    <tok>
     <orth>Jerzy</orth>
     <lex disamb="1"><base>Jerzy</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -4560,8 +4559,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s67">
    <tok>
     <orth>Przez</orth>
     <lex disamb="1"><base>przez</base><ctag>prep:acc:nwok</ctag></lex>
@@ -4653,8 +4652,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s68">
    <tok>
     <orth>Dopiero</orth>
     <lex disamb="1"><base>dopiero</base><ctag>qub</ctag></lex>
@@ -4734,10 +4733,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch15">
-  <chunk type="s">
+  <sentence id="s69">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -4830,8 +4829,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s70">
    <tok>
     <orth>Mając</orth>
     <lex disamb="1"><base>maić</base><ctag>pcon:imperf</ctag></lex>
@@ -4928,10 +4927,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch16">
-  <chunk type="s">
+  <sentence id="s71">
    <tok>
     <orth>Zgodnie</orth>
     <lex disamb="1"><base>zgodnie</base><ctag>adv:pos</ctag></lex>
@@ -5031,8 +5030,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s72">
    <tok>
     <orth>Zewnętrzne</orth>
     <lex disamb="1"><base>zewnętrzny</base><ctag>adj:sg:nom:n:pos</ctag></lex>
@@ -5091,8 +5090,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s73">
    <tok>
     <orth>Były</orth>
     <lex disamb="1"><base>były</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -5127,8 +5126,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s74">
    <tok>
     <orth>Przy</orth>
     <lex disamb="1"><base>przy</base><ctag>prep:loc</ctag></lex>
@@ -5190,8 +5189,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s75">
    <tok>
     <orth>Wystawiono</orth>
     <lex disamb="1"><base>wystawić</base><ctag>imps:perf</ctag></lex>
@@ -5276,8 +5275,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s76">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -5319,8 +5318,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s77">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -5379,8 +5378,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s78">
    <tok>
     <orth>Dodatkowy</orth>
     <lex disamb="1"><base>dodatkowy</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
@@ -5440,8 +5439,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s79">
    <tok>
     <orth>Były</orth>
     <lex disamb="1"><base>były</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -5557,10 +5556,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch17">
-  <chunk type="s">
+  <sentence id="s80">
    <tok>
     <orth>Pracami</orth>
     <lex disamb="1"><base>praca</base><ctag>subst:pl:inst:f</ctag></lex>
@@ -5631,8 +5630,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s81">
    <tok>
     <orth>Trwały</orth>
     <lex disamb="1"><base>trwały</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
@@ -5704,8 +5703,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s82">
    <tok>
     <orth>Jeszcze</orth>
     <lex disamb="1"><base>jeszcze</base><ctag>qub</ctag></lex>
@@ -5768,8 +5767,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s83">
    <tok>
     <orth>Do</orth>
     <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
@@ -5807,8 +5806,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s84">
    <tok>
     <orth>Niezdecydowana</orth>
     <lex disamb="1"><base>niezdecydowany</base><ctag>adj:sg:nom:f:pos</ctag></lex>
@@ -5901,8 +5900,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s85">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -5970,10 +5969,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch18">
-  <chunk type="s">
+  <sentence id="s86">
    <tok>
     <orth>Hieronim</orth>
     <lex disamb="1"><base>Hieronim</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -6090,8 +6089,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s87">
    <tok>
     <orth>Pierwszy</orth>
     <lex disamb="1"><base>pierwszy</base><ctag>subst:sg:nom:m2</ctag></lex>
@@ -6137,8 +6136,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s88">
    <tok>
     <orth>Magnat</orth>
     <lex disamb="1"><base>magnat</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -6196,8 +6195,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s89">
    <tok>
     <orth>Za</orth>
     <lex disamb="1"><base>za</base><ctag>qub</ctag></lex>
@@ -6270,8 +6269,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s90">
    <tok>
     <orth>Ze</orth>
     <lex disamb="1"><base>z</base><ctag>prep:gen:wok</ctag></lex>
@@ -6318,8 +6317,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s91">
    <tok>
     <orth>Wtedy</orth>
     <lex disamb="1"><base>wtedy</base><ctag>adv</ctag></lex>
@@ -6361,8 +6360,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s92">
    <tok>
     <orth>Stanowisko</orth>
     <lex disamb="1"><base>stanowisko</base><ctag>subst:sg:nom:n</ctag></lex>
@@ -6454,8 +6453,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s93">
    <tok>
     <orth>Przydzielono</orth>
     <lex disamb="1"><base>przydzielić</base><ctag>imps:perf</ctag></lex>
@@ -6522,10 +6521,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch19">
-  <chunk type="s">
+  <sentence id="s94">
    <tok>
     <orth>Z</orth>
     <lex disamb="1"><base>z</base><ctag>qub</ctag></lex>
@@ -6596,8 +6595,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s95">
    <tok>
     <orth>Od</orth>
     <lex disamb="1"><base>od</base><ctag>prep:gen:nwok</ctag></lex>
@@ -6672,8 +6671,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s96">
    <tok>
     <orth>Na</orth>
     <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
@@ -6724,8 +6723,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s97">
    <tok>
     <orth>Dobudowano</orth>
     <lex disamb="1"><base>dobudować</base><ctag>imps:perf</ctag></lex>
@@ -6814,8 +6813,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s98">
    <tok>
     <orth>Ufortyfikowano</orth>
     <lex disamb="1"><base>ufortyfikować</base><ctag>imps:perf</ctag></lex>
@@ -6870,8 +6869,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s99">
    <tok>
     <orth>Rozpoczęto</orth>
     <lex disamb="1"><base>rozpocząć</base><ctag>imps:perf</ctag></lex>
@@ -6913,8 +6912,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s100">
    <tok>
     <orth>Łącznie</orth>
     <lex disamb="1"><base>łącznie</base><ctag>adv:pos</ctag></lex>
@@ -6956,10 +6955,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch20">
-  <chunk type="s">
+  <sentence id="s101">
    <tok>
     <orth>Świeżo</orth>
     <lex disamb="1"><base>świeżo</base><ctag>adv:pos</ctag></lex>
@@ -7009,8 +7008,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s102">
    <tok>
     <orth>Następnie</orth>
     <lex disamb="1"><base>następnie</base><ctag>adv</ctag></lex>
@@ -7044,8 +7043,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s103">
    <tok>
     <orth>Dodatkowe</orth>
     <lex disamb="1"><base>dodatkowy</base><ctag>adj:sg:nom:n:pos</ctag></lex>
@@ -7100,8 +7099,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s104">
    <tok>
     <orth>Wszystkie</orth>
     <lex disamb="1"><base>wszystek</base><ctag>adj:sg:nom:n:pos</ctag></lex>
@@ -7147,8 +7146,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s105">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -7236,8 +7235,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s106">
    <tok>
     <orth>Trzy</orth>
     <lex disamb="1"><base>trzy</base><ctag>num:pl:nom:m2:congr</ctag></lex>
@@ -7294,8 +7293,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s107">
    <tok>
     <orth>Usytuowano</orth>
     <lex disamb="1"><base>usytuować</base><ctag>imps:perf</ctag></lex>
@@ -7351,8 +7350,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s108">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -7429,8 +7428,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s109">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -7480,8 +7479,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s110">
    <tok>
     <orth>Miała</orth>
     <lex disamb="1"><base>mieć</base><ctag>praet:sg:f:imperf</ctag></lex>
@@ -7540,8 +7539,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s111">
    <tok>
     <orth>Jej</orth>
     <lex disamb="1"><base>on</base><ctag>ppron3:sg:gen:f:ter:akc:npraep</ctag></lex>
@@ -7587,8 +7586,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s112">
    <tok>
     <orth>Sama</orth>
     <lex disamb="1"><base>Sam</base><ctag>subst:sg:gen:m1</ctag></lex>
@@ -7614,8 +7613,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s113">
    <tok>
     <orth>Przebudowa</orth>
     <lex disamb="1"><base>przebudowa</base><ctag>subst:sg:nom:f</ctag></lex>
@@ -7710,10 +7709,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch21">
-  <chunk type="s">
+  <sentence id="s114">
    <tok>
     <orth>Prace</orth>
     <lex disamb="1"><base>praca</base><ctag>subst:pl:nom:f</ctag></lex>
@@ -7767,8 +7766,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s115">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -7832,8 +7831,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s116">
    <tok>
     <orth>Przykładem</orth>
     <lex disamb="1"><base>przykład</base><ctag>subst:sg:inst:m3</ctag></lex>
@@ -7912,8 +7911,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s117">
    <tok>
     <orth>Powodem</orth>
     <lex disamb="1"><base>powód</base><ctag>subst:sg:inst:m1</ctag></lex>
@@ -7955,10 +7954,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch22">
-  <chunk type="s">
+  <sentence id="s118">
    <tok>
     <orth>Prace</orth>
     <lex disamb="1"><base>praca</base><ctag>subst:pl:nom:f</ctag></lex>
@@ -8008,8 +8007,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s119">
    <tok>
     <orth>Umocniony</orth>
     <lex disamb="1"><base>umocnić</base><ctag>ppas:sg:nom:m1:perf:aff</ctag></lex>
@@ -8076,8 +8075,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s120">
    <tok>
     <orth>Nierozstrzygnięta</orth>
     <lex disamb="1"><base>rozstrzygnąć</base><ctag>ppas:sg:nom:f:perf:neg</ctag></lex>
@@ -8233,10 +8232,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch23">
-  <chunk type="s">
+  <sentence id="s121">
    <tok>
     <orth>Jerzy</orth>
     <lex disamb="1"><base>Jerzy</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -8312,8 +8311,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s122">
    <tok>
     <orth>Za</orth>
     <lex disamb="1"><base>za</base><ctag>qub</ctag></lex>
@@ -8359,8 +8358,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s123">
    <tok>
     <orth>Nowy</orth>
     <lex disamb="1"><base>nowy</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -8431,8 +8430,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s124">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -8503,10 +8502,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch24">
-  <chunk type="s">
+  <sentence id="s125">
    <tok>
     <orth>Z</orth>
     <lex disamb="1"><base>z</base><ctag>qub</ctag></lex>
@@ -8556,8 +8555,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s126">
    <tok>
     <orth>Przedstawia</orth>
     <lex disamb="1"><base>przedstawiać</base><ctag>fin:sg:ter:imperf</ctag></lex>
@@ -8636,10 +8635,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch25">
-  <chunk type="s">
+  <sentence id="s127">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -8698,8 +8697,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s128">
    <tok>
     <orth>Dodatkowo</orth>
     <lex disamb="1"><base>dodatkowo</base><ctag>adv:pos</ctag></lex>
@@ -8801,8 +8800,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s129">
    <tok>
     <orth>Ściany</orth>
     <lex disamb="1"><base>ściana</base><ctag>subst:sg:gen:f</ctag></lex>
@@ -8899,8 +8898,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s130">
    <tok>
     <orth>Dużo</orth>
     <lex disamb="1"><base>dużo</base><ctag>adv:pos</ctag></lex>
@@ -9005,8 +9004,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s131">
    <tok>
     <orth>Kolekcję</orth>
     <lex disamb="1"><base>kolekcja</base><ctag>subst:sg:acc:f</ctag></lex>
@@ -9052,8 +9051,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s132">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -9140,10 +9139,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch26">
-  <chunk type="s">
+  <sentence id="s133">
    <tok>
     <orth>Sporo</orth>
     <lex disamb="1"><base>sporo</base><ctag>adv:pos</ctag></lex>
@@ -9203,8 +9202,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s134">
    <tok>
     <orth>Wisiała</orth>
     <lex disamb="1"><base>wisieć</base><ctag>praet:sg:f:imperf</ctag></lex>
@@ -9246,8 +9245,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s135">
    <tok>
     <orth>Książek</orth>
     <lex disamb="1"><base>Książek</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -9340,8 +9339,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s136">
    <tok>
     <orth>Inwentarz</orth>
     <lex disamb="1"><base>inwentarz</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -9429,8 +9428,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s137">
    <tok>
     <orth>Sam</orth>
     <lex disamb="1"><base>sam</base><ctag>adv</ctag></lex>
@@ -9473,8 +9472,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s138">
    <tok>
     <orth>Dopiero</orth>
     <lex disamb="1"><base>dopiero</base><ctag>qub</ctag></lex>
@@ -9561,10 +9560,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch27">
-  <chunk type="s">
+  <sentence id="s139">
    <tok>
     <orth>Na</orth>
     <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
@@ -9606,8 +9605,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s140">
    <tok>
     <orth>Obsadzony</orth>
     <lex disamb="1"><base>obsadzić</base><ctag>ppas:sg:nom:m1:perf:aff</ctag></lex>
@@ -9637,8 +9636,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s141">
    <tok>
     <orth>Służba</orth>
     <lex disamb="1"><base>służba</base><ctag>subst:sg:nom:f</ctag></lex>
@@ -9702,10 +9701,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch28">
-  <chunk type="s">
+  <sentence id="s142">
    <tok>
     <orth>Joanna</orth>
     <lex disamb="1"><base>Joanna</base><ctag>subst:sg:nom:f</ctag></lex>
@@ -9772,8 +9771,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s143">
    <tok>
     <orth>Oblężenie</orth>
     <lex disamb="1"><base>oblężenie</base><ctag>subst:sg:nom:n</ctag></lex>
@@ -9884,8 +9883,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s144">
    <tok>
     <orth>Oblężenie</orth>
     <lex disamb="1"><base>oblężenie</base><ctag>subst:sg:nom:n</ctag></lex>
@@ -9962,8 +9961,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s145">
    <tok>
     <orth>Miejscowa</orth>
     <lex disamb="1"><base>miejscowa</base><ctag>subst:sg:nom:f</ctag></lex>
@@ -10005,8 +10004,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s146">
    <tok>
     <orth>Miał</orth>
     <lex disamb="1"><base>miał</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -10089,8 +10088,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s147">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -10145,8 +10144,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s148">
    <tok>
     <orth>Zamek</orth>
     <lex disamb="1"><base>zamek</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -10172,10 +10171,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch29">
-  <chunk type="s">
+  <sentence id="s149">
    <tok>
     <orth>Pomimo</orth>
     <lex disamb="1"><base>pomimo</base><ctag>prep:gen</ctag></lex>
@@ -10270,8 +10269,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s150">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -10330,8 +10329,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s151">
    <tok>
     <orth>Ich</orth>
     <lex disamb="1"><base>on</base><ctag>ppron3:pl:gen:m1:ter:akc:npraep</ctag></lex>
@@ -10386,8 +10385,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s152">
    <tok>
     <orth>Być</orth>
     <lex disamb="1"><base>być</base><ctag>inf:imperf</ctag></lex>
@@ -10478,10 +10477,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch30">
-  <chunk type="s">
+  <sentence id="s153">
    <tok>
     <orth>Splendory</orth>
     <lex disamb="1"><base>splendor</base><ctag>subst:pl:nom:m3</ctag></lex>
@@ -10613,8 +10612,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s154">
    <tok>
     <orth>Ze</orth>
     <lex disamb="1"><base>z</base><ctag>prep:gen:wok</ctag></lex>
@@ -10660,8 +10659,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s155">
    <tok>
     <orth>Po</orth>
     <lex disamb="1"><base>po</base><ctag>prep:acc</ctag></lex>
@@ -10747,8 +10746,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s156">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -10794,8 +10793,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s157">
    <tok>
     <orth>Sporo</orth>
     <lex disamb="1"><base>sporo</base><ctag>adv:pos</ctag></lex>
@@ -10842,10 +10841,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch31">
-  <chunk type="s">
+  <sentence id="s158">
    <tok>
     <orth>Wraz</orth>
     <lex disamb="1"><base>wraz</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -10937,8 +10936,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s159">
    <tok>
     <orth>Wkrótce</orth>
     <lex disamb="1"><base>wkrótce</base><ctag>adv</ctag></lex>
@@ -11013,8 +11012,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s160">
    <tok>
     <orth>Zniwelowano</orth>
     <lex disamb="1"><base>zniwelować</base><ctag>imps:perf</ctag></lex>
@@ -11105,8 +11104,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s161">
    <tok>
     <orth>Prace</orth>
     <lex disamb="1"><base>praca</base><ctag>subst:pl:nom:f</ctag></lex>
@@ -11169,8 +11168,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s162">
    <tok>
     <orth>Remont</orth>
     <lex disamb="1"><base>remont</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -11245,8 +11244,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s163">
    <tok>
     <orth>Podczas</orth>
     <lex disamb="1"><base>podczas</base><ctag>prep:gen</ctag></lex>
@@ -11296,8 +11295,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s164">
    <tok>
     <orth>Do</orth>
     <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
@@ -11343,10 +11342,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch32">
-  <chunk type="s">
+  <sentence id="s165">
    <tok>
     <orth>Wykorzystanie</orth>
     <lex disamb="1"><base>wykorzystanie</base><ctag>subst:sg:nom:n</ctag></lex>
@@ -11416,8 +11415,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s166">
    <tok>
     <orth>Piętro</orth>
     <lex disamb="1"><base>piętro</base><ctag>subst:sg:nom:n</ctag></lex>
@@ -11472,8 +11471,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s167">
    <tok>
     <orth>Umieszczono</orth>
     <lex disamb="1"><base>umieścić</base><ctag>imps:perf</ctag></lex>
@@ -11537,10 +11536,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch33">
-  <chunk type="s">
+  <sentence id="s168">
    <tok>
     <orth>Kompleks</orth>
     <lex disamb="1"><base>kompleks</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -11706,8 +11705,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s169">
    <tok>
     <orth>Konserwatorzy</orth>
     <lex disamb="1"><base>konserwator</base><ctag>subst:pl:nom:m1</ctag></lex>
@@ -11765,8 +11764,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s170">
    <tok>
     <orth>Sam</orth>
     <lex disamb="1"><base>sam</base><ctag>adv</ctag></lex>
@@ -11829,8 +11828,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s171">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -11926,8 +11925,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s172">
    <tok>
     <orth>Prace</orth>
     <lex disamb="1"><base>praca</base><ctag>subst:pl:nom:f</ctag></lex>
@@ -11997,10 +11996,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch34">
-  <chunk type="s">
+  <sentence id="s173">
    <tok>
     <orth>Początkowo</orth>
     <lex disamb="1"><base>początkowo</base><ctag>adv:pos</ctag></lex>
@@ -12079,8 +12078,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s174">
    <tok>
     <orth>Obiekt</orth>
     <lex disamb="1"><base>obiekt</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -12130,8 +12129,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s175">
    <tok>
     <orth>Projekt</orth>
     <lex disamb="1"><base>projekt</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -12187,8 +12186,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s176">
    <tok>
     <orth>Postawiono</orth>
     <lex disamb="1"><base>postawić</base><ctag>imps:perf</ctag></lex>
@@ -12227,8 +12226,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s177">
    <tok>
     <orth>Zachowano</orth>
     <lex disamb="1"><base>zachować</base><ctag>imps:perf</ctag></lex>
@@ -12295,8 +12294,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s178">
    <tok>
     <orth>Przebudowa</orth>
     <lex disamb="1"><base>przebudowa</base><ctag>subst:sg:nom:f</ctag></lex>
@@ -12472,8 +12471,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s179">
    <tok>
     <orth>Wszakże</orth>
     <lex disamb="1"><base>wszakże</base><ctag>conj</ctag></lex>
@@ -12581,10 +12580,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch35">
-  <chunk type="s">
+  <sentence id="s180">
    <tok>
     <orth>Kurtynowy</orth>
     <lex disamb="1"><base>kurtynowy</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
@@ -12610,8 +12609,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s181">
    <tok>
     <orth>Pozostawiono</orth>
     <lex disamb="1"><base>pozostawić</base><ctag>imps:perf</ctag></lex>
@@ -12812,8 +12811,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s182">
    <tok>
     <orth>Na</orth>
     <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
@@ -12855,10 +12854,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch36">
-  <chunk type="s">
+  <sentence id="s183">
    <tok>
     <orth>Nowy</orth>
     <lex disamb="1"><base>nowy</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -12920,8 +12919,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s184">
    <tok>
     <orth>Utworzono</orth>
     <lex disamb="1"><base>utworzyć</base><ctag>imps:perf</ctag></lex>
@@ -12989,8 +12988,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s185">
    <tok>
     <orth>Cenne</orth>
     <lex disamb="1"><base>cenny</base><ctag>adj:sg:nom:n:pos</ctag></lex>
@@ -13285,10 +13284,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch37">
-  <chunk type="s">
+  <sentence id="s186">
    <tok>
     <orth>Prace</orth>
     <lex disamb="1"><base>praca</base><ctag>subst:pl:nom:f</ctag></lex>
@@ -13322,10 +13321,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch38">
-  <chunk type="s">
+  <sentence id="s187">
    <tok>
     <orth>Zamek</orth>
     <lex disamb="1"><base>zamek</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -13371,10 +13370,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch39">
-  <chunk type="s">
+  <sentence id="s188">
    <tok>
     <orth>Zamkowe</orth>
     <lex disamb="1"><base>zamkowy</base><ctag>adj:sg:nom:n:pos</ctag></lex>
@@ -13440,8 +13439,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s189">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -13618,8 +13617,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s190">
    <tok>
     <orth>Rozstrzeliwania</orth>
     <lex disamb="1"><base>rozstrzeliwać</base><ctag>ger:sg:gen:n:imperf:aff</ctag></lex>
@@ -13649,8 +13648,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s191">
    <tok>
     <orth>21</orth>
     <lex disamb="1"><base>21</base><ctag>ign</ctag></lex>
@@ -13818,8 +13817,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s192">
    <tok>
     <orth>27</orth>
     <lex disamb="1"><base>27</base><ctag>ign</ctag></lex>
@@ -13915,8 +13914,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s193">
    <tok>
     <orth>Masowo</orth>
     <lex disamb="1"><base>masowo</base><ctag>adv:pos</ctag></lex>
@@ -14008,8 +14007,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s194">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -14058,8 +14057,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s195">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -14196,8 +14195,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s196">
    <tok>
     <orth>12</orth>
     <lex disamb="1"><base>12</base><ctag>ign</ctag></lex>
@@ -14267,8 +14266,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s197">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -14348,10 +14347,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch40">
-  <chunk type="s">
+  <sentence id="s198">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -14456,10 +14455,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch41">
-  <chunk type="s">
+  <sentence id="s199">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -14601,10 +14600,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch42">
-  <chunk type="s">
+  <sentence id="s200">
    <tok>
     <orth>Ppłk</orth>
     <lex disamb="1"><base>Ppłk</base><ctag>ign</ctag></lex>
@@ -14614,8 +14613,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s201">
    <tok>
     <orth>Łukasz</orth>
     <lex disamb="1"><base>Łukasz</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -14667,8 +14666,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s202">
    <tok>
     <orth>Komendant</orth>
     <lex disamb="1"><base>komendant</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -14823,8 +14822,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s203">
    <tok>
     <orth>Wyrok</orth>
     <lex disamb="1"><base>wyrok</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -14896,10 +14895,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch43">
-  <chunk type="s">
+  <sentence id="s204">
    <tok>
     <orth>21</orth>
     <lex disamb="1"><base>21</base><ctag>ign</ctag></lex>
@@ -14949,8 +14948,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s205">
    <tok>
     <orth>Stanisław</orth>
     <lex disamb="1"><base>Stanisław</base><ctag>subst:sg:nom:m1</ctag></lex>
@@ -15218,8 +15217,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s206">
    <tok>
     <orth>5</orth>
     <lex disamb="1"><base>5</base><ctag>ign</ctag></lex>
@@ -15433,10 +15432,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch44">
-  <chunk type="s">
+  <sentence id="s207">
    <tok>
     <orth>Wykonywano</orth>
     <lex disamb="1"><base>wykonywać</base><ctag>imps:imperf</ctag></lex>
@@ -15486,8 +15485,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s208">
    <tok>
     <orth>13</orth>
     <lex disamb="1"><base>13</base><ctag>ign</ctag></lex>
@@ -15529,8 +15528,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s209">
    <tok>
     <orth>8</orth>
     <lex disamb="1"><base>8</base><ctag>ign</ctag></lex>
@@ -15638,10 +15637,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch45">
-  <chunk type="s">
+  <sentence id="s210">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -15708,8 +15707,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s211">
    <tok>
     <orth>W</orth>
     <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
@@ -15751,8 +15750,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s212">
    <tok>
     <orth>Obiekt</orth>
     <lex disamb="1"><base>obiekt</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -15794,8 +15793,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s213">
    <tok>
     <orth>Odbywały</orth>
     <lex disamb="1"><base>odbywać</base><ctag>praet:pl:m2:imperf</ctag></lex>
@@ -15915,10 +15914,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch46">
-  <chunk type="s">
+  <sentence id="s214">
    <tok>
     <orth>Zamek</orth>
     <lex disamb="1"><base>zamek</base><ctag>subst:sg:nom:m3</ctag></lex>
@@ -16002,8 +16001,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s215">
    <tok>
     <orth>Najważniejszy</orth>
     <lex disamb="1"><base>ważny</base><ctag>adj:sg:nom:m1:sup</ctag></lex>
@@ -16049,8 +16048,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s216">
    <tok>
     <orth>Od</orth>
     <lex disamb="1"><base>od</base><ctag>prep:gen:nwok</ctag></lex>
@@ -16115,8 +16114,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s217">
    <tok>
     <orth>Jednym</orth>
     <lex disamb="1"><base>jeden</base><ctag>subst:sg:inst:m2</ctag></lex>
@@ -16174,8 +16173,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s218">
    <tok>
     <orth>Pierwsza</orth>
     <lex disamb="1"><base>pierwsza</base><ctag>subst:sg:nom:f</ctag></lex>
@@ -16271,10 +16270,10 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
  <chunk id="ch47">
-  <chunk type="s">
+  <sentence id="s219">
    <tok>
     <orth>Od</orth>
     <lex disamb="1"><base>od</base><ctag>prep:gen:nwok</ctag></lex>
@@ -16336,8 +16335,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s220">
    <tok>
     <orth>Zwiększyło</orth>
     <lex disamb="1"><base>zwiększyć</base><ctag>praet:sg:n:perf</ctag></lex>
@@ -16404,8 +16403,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s221">
    <tok>
     <orth>Aby</orth>
     <lex disamb="1"><base>aby</base><ctag>comp</ctag></lex>
@@ -16500,8 +16499,8 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
+  </sentence>
+  <sentence id="s222">
    <tok>
     <orth>Dodatkowy</orth>
     <lex disamb="1"><base>dodatkowy</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
@@ -16568,7 +16567,6 @@
     <orth>.</orth>
     <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
+  </sentence>
  </chunk>
 </chunkList>
-</cesAna>

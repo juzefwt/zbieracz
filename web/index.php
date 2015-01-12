@@ -102,22 +102,21 @@ $app->match('/', function(Request $request) use ($app) {
     }
     $chunkList = new SimpleXMLElement(file_get_contents(__DIR__.'/ccl/'.$docName.'.xml'));
     foreach ($chunkList as $paragraph) {
+        $pgp = array();
         foreach ($paragraph as $sentence) {
-            $pgp = array();
-            foreach ($sentence as $tokUp) {
-                $sentence = array();
-
-                foreach ($tokUp as $tok) {
-                    $orth = (string)$tok->orth;
-                    $sentence[] = $orth;
-                }
-
-                $pgp[] = implode(' ', $sentence);
-                $sentencesNumber++;
+            $singleSentence = array();
+            
+            foreach ($sentence as $tok) {
+                $orth = (string)$tok->orth;
+                $singleSentence[] = $orth;
             }
 
-            $text[] = $pgp;
+            $pgp[] = implode(' ', $singleSentence);
+            $sentencesNumber++;
+
         }
+
+        $text[] = $pgp;
     }
 
     return $app['twig']->render('index.html.twig', array(
