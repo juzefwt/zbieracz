@@ -1,0 +1,29 @@
+Pesa Mazovia
+
+Pesa Mazovia (typ 13WE oznaczony serią EN95) – normalnotorowy czteroczłonowy elektryczny zespół trakcyjny produkcji polskiej wyprodukowany przez zakłady Pesa w Bydgoszczy w 2004 roku dla Warszawskej Kolei Dojazdowej w jednej sztuce.
+
+Po II wojnie światowej elektryczne zespoły trakcyjne produkowane były aż do 1997 roku tylko przez PaFaWag z Wrocławia. Był on producentem m.in. najpopularniejszego w Polsce EZT serii EN57. PaFaWag po prywatyzacji w latach 90. zaprzestał produkcji tego typu pojazdów, a ostatnim wyprodukowanym zespołem był ED73 w 1997. Przez kilka lat w Polsce nie produkowano żadnych EZT.
+
+W tym czasie PKP, a później samorządy kupowały głównie wagony spalinowe i spalinowe zespoły trakcyjne, gdyż w obsłudze linii niezelektryfikowanych dominowały składy złożone z pojedynczych wagonów ciągniętych przez paliwożerne lokomotywy. Pozwoliło to polskim producentom oraz przewoźnikom na zebranie doświadczenia w produkcji i eksploatacji lekkiego taboru. Dodatkowo modernizowano posiadane przez polskich przewoźników zespoły trakcyjne serii EN57.
+
+Bazując na doświadczeniach z remontów EZT i produkcji wagonów spalinowych, w 2004 roku Pesa podjęła się próby zbudowania pierwszego EZT-a własnej produkcji – 13WE. Prototyp został ukończony 28 czerwca 2004.
+
+Powstał tylko jeden egzemplarz 13WE, mimo iż WKD już w 2004 planowało zakup kolejnych 9 sztuk. Dopiero jednak 27 maja 2009 ogłoszono przetarg na 14 składów o podobnych parametrach (różnicą była mniejsza liczba miejsc siedzących oraz wymagana dwusystemowość). Przetarg ten został jednak unieważniony 9 października, ze względu na przekroczenie budżetu. 5 listopada 2009 ogłoszono kolejny przetarg na 14 pojazdów, ale o nieco innych parametrach technicznych – m.in. zrezygnowano z jednoprzestrzenności składów. Konkurs ponownie wygrała Pesa, proponując już całkowicie nowe składy – 33WE. 26 marca 2010 podpisano umowę ich zakupu.
+
+Mazovia to czteroczłonowy, jednoprzestrzenny, częściowo niskopodłogowy skład przeznaczony do obsługi aglomeracyjnych przewozów pasażerskich na liniach zelektryfikowanych zasilanych napięciem 600 V DC. Wszystkie człony posiadają z obu stron po dwie pary dwuskrzydłowych, odskokowo-przesuwnych drzwi o prześwicie 1300 mm.
+
+Stosowany jest grupowy układ foteli (2+2) z wyjątkiem środków członów skrajnych gdzie siedzenia są wzdłuż okien. W części niskopodłogowej (600 mm nad PGS) pierwszego członu znajdują się dwa uchwyty na rower, a w części niskopodłogowej ostatniego członu znajduje się przestrzeń na większy bagaż oraz jedno miejsce dla osoby niepełnosprawnej, obok którego zamontowano rampy wjazdowe. Do części podwyższonej pojazdu, znajdującej się nad wózkami, prowadzą po dwa schodki. Wnętrze pojazdu jest wyposażone w monitoring, ogrzewanie nawiewne i nagrzewnicowe elektryczne, klimatyzację, system informacji pasażerskiej wizualnej i dźwiękowej oraz kasowniki. Pojazd nie posiada toalet.
+
+Zespół napędowy 13WE składa się z 4 silników asynchronicznych, 3-fazowych (typ DKLBZ0910-04, prod. VEM Sachsenwerk) oraz przekładni osiowych SZH 495 (prod. Voith). Każdy silnik zasilany jest przez jeden falownik (typ FT-300-600, prod. Medcom). Pierwszy i ostatni wózek to dwuosiowe wózki napędowe 21MN, a trzy środkowe to dwuosiowe wózki toczne 34AN (w systemie Jakobsa). Pojazd posiada sprzęg Scharfenberga (prod. Voith), jednakże nie ma możliwości jazdy w trakcji ukrotnionej, a jedynie holowania w trybie awaryjnym. W pojazdach zastosowano odbieraki prądu typu DSA 200-PKP (prod. Stemmann).
+
+Pojazd wyposażony jest w urządzenia automatyki bezpieczeństwa ruchu: czuwak aktywny oraz radiotelefon, jednakże nie posiada SHP, gdyż system ten nie jest stosowany na liniach WKD.
+
+Na początku 2007 roku pojazd został doposażony w klimatyzację.
+
+27 marca 2014 WKD udzieliło Pesie zamówienia na wykonanie naprawy okresowej podczas której pojazd ma m.in. zostać przystosowany do napięcia 3 kV.
+
+25 czerwca 2003 samorząd województwa mazowieckiego podpisał umowę z Pesą na dostarczenie jednego pojazdu typu 13WE za 10 mln zł dla PKP Warszawskiej Kolei Dojazdowej.
+
+Pojazd dostarczono 30 czerwca 2004. W czasie wakacji pociąg odbył jazdy próbne na trasie WKD i 29 sierpnia został przekazany na stan WKD. Do regularnego użytku wszedł 1 września. W początkowym okresie eksploatacji pojazd uległ kilku awariom. 20 listopada 2007 pojazd został przekazany na własność spółce PKP Warszawska Kolej Dojazdowa w zamian za objęcie przez województwo mazowieckie udziałów w spółce PKP WKD o wartości równej wartości pociągu.
+
+Od 20 do 24 września 2004 jednostka była prezentowana na targach InnoTrans w Berlinie.
