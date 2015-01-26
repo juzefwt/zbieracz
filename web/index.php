@@ -104,10 +104,10 @@ $app->match('/', function(Request $request) use ($app) {
                 $authorName = (string)$extract['author'];
                 $sentences = (string)$extract['sentences'];
                 
-                if ($docName != '' && $sentences != '') {
-                    $filesAvailable[$docName]++;
-                } else {
+                if ($authorName == $author && $sentences == '') {
                     $fileReserved = true;
+                } else {
+                    $filesAvailable[$docName]++;
                 }
             }
         }
