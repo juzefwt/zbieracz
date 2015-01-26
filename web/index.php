@@ -66,7 +66,10 @@ $app->match('/', function(Request $request) use ($app) {
                 $dom->formatOutput = true;
                 $dom->loadXML($extractList->asXML());
 
-                file_put_contents(__DIR__.'/ccl/extracts.xml', $dom->saveXML());
+                $done = file_put_contents(__DIR__.'/ccl/extracts.xml', $dom->saveXML());
+                if ($done === false) {
+                    throw new \RuntimeException('Nie można zapisać streszczenia :(');   
+                }
             }
         }
 
@@ -101,7 +104,7 @@ $app->match('/', function(Request $request) use ($app) {
                 $authorName = (string)$extract['author'];
                 $sentences = (string)$extract['sentences'];
                 
-                if ($sentences != '') {
+                if ($docName != '' && $sentences != '') {
                     $filesAvailable[$docName]++;
                 } else {
                     $fileReserved = true;
@@ -123,7 +126,10 @@ $app->match('/', function(Request $request) use ($app) {
             $dom->formatOutput = true;
             $dom->loadXML($extracts->asXML());
 
-            file_put_contents(__DIR__.'/ccl/extracts.xml', $dom->saveXML());
+            $done = file_put_contents(__DIR__.'/ccl/extracts.xml', $dom->saveXML());
+            if ($done === false) {
+                throw new \RuntimeException('Nie można zapisać streszczenia :(');   
+            }
         }
     } else {
         throw new \RuntimeException('Brak dostępu do streszczanych dokumentów');
