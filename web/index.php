@@ -31,10 +31,20 @@ function rrmdir($dir) {
 } 
 
 $app->match('/', function(Request $request) use ($app) {
+    if (!$request->cookies->has('who')) {
+        $who = sha1(time() + rand(1, 100));
+        $cookie = new Cookie("who", $who, time() + 3600 * 24 * 365);
+        $response = Response::create('', 302, array("Location" => $app['url_generator']->generate('homepage')));
+        $response->headers->setCookie($cookie);
+
+        return $response;
+    }
+
+    $author = $request->cookies->get('who');
+
     if ($request->isMethod('POST')) {
         $sentences = $request->request->get('sentences');
         $doc = $request->request->get('doc');
-        $author = $request->cookies->get('who');
 
         $xml = file_get_contents(__DIR__.'/ccl/extracts.xml');
 
@@ -43,30 +53,26 @@ $app->match('/', function(Request $request) use ($app) {
         }
 
         $extractList = new SimpleXMLElement($xml);
-        $newExtract = $extractList->addChild('extract');
-        $newExtract->addAttribute('doc', $doc);
-        $newExtract->addAttribute('author', $author);
-        $newExtract->addAttribute('sentences', $sentences);
+        
+        foreach ($extractList as $extract) {
+            $docName = (string)$extract['doc'];
+            $authorName = (string)$extract['author'];
+        
+            if ($docName == $doc && $author == $authorName) {
+                $extract->addAttribute('sentences', $sentences);
 
-        $dom = new DOMDocument('1.0', 'utf-8');
-        $dom->preserveWhiteSpace = false;
-        $dom->formatOutput = true;
-        $dom->loadXML($extractList->asXML());
+                $dom = new DOMDocument('1.0', 'utf-8');
+                $dom->preserveWhiteSpace = false;
+                $dom->formatOutput = true;
+                $dom->loadXML($extractList->asXML());
 
-        file_put_contents(__DIR__.'/ccl/extracts.xml', $dom->saveXML());
+                file_put_contents(__DIR__.'/ccl/extracts.xml', $dom->saveXML());
+            }
+        }
 
-        $app['session']->getFlashBag()->add('message', 'Streszczenie zostało zapisane.');
-
-        return $app->redirect($app["url_generator"]->generate("homepage"));
-    }
-
-    if (!$request->cookies->has('who')) {
-        $who = sha1(time() + rand(1, 100));
-        $cookie = new Cookie("who", $who, time() + 3600 * 24 * 365);
-        $response = Response::create('', 302, array("Location" => $app['url_generator']->generate('homepage')));
-        $response->headers->setCookie($cookie);
-
-        return $response;
+        return $app['twig']->render('kthx.html.twig', array(
+            'message' => 'Streszczenie zostało zachowane.'
+        ));
     }
 
     $text = array();
@@ -85,18 +91,40 @@ $app->match('/', function(Request $request) use ($app) {
         closedir($handle);
 
         $xml = file_get_contents(__DIR__.'/ccl/extracts.xml');
+        $fileReserved = false;
 
         if ($xml) {
             $extracts = new SimpleXMLElement($xml);
+
             foreach ($extracts as $extract) {
                 $docName = (string)$extract['doc'];
-                $filesAvailable[$docName]++;
+                $authorName = (string)$extract['author'];
+                $sentences = (string)$extract['sentences'];
+                
+                if ($sentences != '') {
+                    $filesAvailable[$docName]++;
+                } else {
+                    $fileReserved = true;
+                }
             }
         }
 
         asort($filesAvailable);
         reset($filesAvailable);
         $docName = key($filesAvailable);
+
+        if (!$fileReserved) {
+            $newExtract = $extracts->addChild('extract');
+            $newExtract->addAttribute('doc', $docName);
+            $newExtract->addAttribute('author', $author);
+
+            $dom = new DOMDocument('1.0', 'utf-8');
+            $dom->preserveWhiteSpace = false;
+            $dom->formatOutput = true;
+            $dom->loadXML($extracts->asXML());
+
+            file_put_contents(__DIR__.'/ccl/extracts.xml', $dom->saveXML());
+        }
     } else {
         throw new \RuntimeException('Brak dostępu do streszczanych dokumentów');
     }

@@ -1,0 +1,6 @@
+{% extends 'base.html.twig' %}
+{% block body %}
+<div class="container">
+    <div class="alert alert-success">{{ message }} <strong><a href="{{ app.url_generator.generate('homepage') }}">Przejdź do kolejnego artykułu</a></strong></div>
+</div>
+{% endblock %}
