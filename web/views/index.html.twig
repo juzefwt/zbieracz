@@ -78,6 +78,7 @@ function updateSubmitButton() {
 }
 
 function setupClickHandlers() {
+    $(".glyphicon-circle-arrow-up").off('click');
     $(".glyphicon-circle-arrow-up").on('click', function() {
         var row = $(this).parents("tr:first");
         row.insertBefore(row.prev());
@@ -87,6 +88,7 @@ function setupClickHandlers() {
         updateForm();
     });
 
+    $(".glyphicon-circle-arrow-down").off('click');
     $(".glyphicon-circle-arrow-down").on('click', function() {
         var row = $(this).parents("tr:first");
         row.insertAfter(row.next());
@@ -96,6 +98,7 @@ function setupClickHandlers() {
         updateForm();
     });
 
+    $(".glyphicon-remove-circle").off('click');
     $(".glyphicon-remove-circle").on('click', function() {
         var row = $(this).parents("tr:first");
         $('#' + row.attr('id').substring(2)).removeClass('selected');
