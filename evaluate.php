@@ -1,21 +1,28 @@
 <?php
 
 $extractList = new SimpleXMLElement(file_get_contents(__DIR__.'/web/ccl/extracts.xml'));
+$modelExtracts = array();
 
 foreach ($extractList as $extract) {
     $docName = (string)$extract['doc'];
     $modelSentences = explode(',', (string)$extract['sentences']);
 
-    if (empty($modelSentences)) {
+    $processedFile = __DIR__.'/web/txt/'.$docName;
+    
+    if (empty($modelSentences) || !file_exists($processedFile)) {
         continue;
     }
 
+    if (!isset($modelExtracts[$docName])) {
+        $modelExtracts[$docName] = array();
+    }
+    $modelExtracts[$docName][] = $modelSentences;
+}
+
+foreach ($modelExtracts as $docName => $models) {
     $processedFile = __DIR__.'/web/txt/'.$docName;
     $oldmask = umask(0);
-
     $workingDirPath = '/tmp/xtr';
-    shell_exec(sprintf('chmod -R 0777 %s', $workingDirPath));
-    //chown($workingDirPath, 465);
 
     if (file_exists($workingDirPath)) {
         rrmdir($workingDirPath.'/TEXT');
@@ -44,7 +51,7 @@ foreach ($extractList as $extract) {
     $extractXml = new SimpleXMLElement(file_get_contents($extractPath));
     
     $systemExtract = array();
-    $modelExtract = array();
+    $modelExtracts = array();
 
     foreach ($docsentXml->BODY->TEXT->children() as $s) {
         foreach ($extractXml as $sentence) {
@@ -53,9 +60,11 @@ foreach ($extractList as $extract) {
             }
         }
 
-        foreach ($modelSentences as $modelSentenceIndex) {
-            if ((int)$s['SNO'] == $modelSentenceIndex) {
-                $modelExtract[] = (string) $s;
+        foreach ($models as $i => $model) {
+            foreach ($model as $modelSentenceIndex) {
+                if ((int)$s['SNO'] == $modelSentenceIndex) {
+                    $modelExtracts[$i][] = (string) $s;
+                }
             }
         }
     }
@@ -67,14 +76,16 @@ foreach ($extractList as $extract) {
     }
 
     file_put_contents($evalPath.'/system.txt', implode(PHP_EOL, $systemExtract));
-    file_put_contents($evalPath.'/model.txt', implode(PHP_EOL, $modelExtract));
+
+    $modelPaths = array();
+    foreach ($modelExtracts as $i => $model) {
+        file_put_contents($evalPath.'/model'.$i.'.txt', implode(PHP_EOL, $model));
+        $modelPaths[] = $evalPath.'/model'.$i.'.txt';
+    }
 
     $evalResultPath = __DIR__.'/web/eval/'.$docName;
 
-    if (file_exists($workingDirPath.'/eval.txt')) {
-        unlink($workingDirPath.'/eval.txt');
-    }
-    echo shell_exec('perl /usr/local/share/mead/bin/evaluation/rouge/rouge.pl '.$evalPath.'/system.txt '.$evalPath.'/model.txt');
+    echo shell_exec('perl /usr/local/share/mead/bin/evaluation/rouge/rouge.pl '.$evalPath.'/system.txt '.implode(' ', $modelPaths));
     echo shell_exec('cd /usr/local/share/mead/rouge/kraken && perl /usr/local/share/mead/rouge/ROUGE-1.5.5.pl -e "/usr/local/share/mead/rouge/data" -c 95 -r 1000 -n 2 -m -a -l 100 -x /usr/local/share/mead/rouge/kraken/auto_temp.xml > '.$evalResultPath);
 }
 
