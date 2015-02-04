@@ -57,9 +57,11 @@ $app->match('/', function(Request $request) use ($app) {
         foreach ($extractList as $extract) {
             $docName = (string)$extract['doc'];
             $authorName = (string)$extract['author'];
+            $started = (int)$extract['started'];
         
             if ($docName == $doc && $author == $authorName) {
                 $extract->addAttribute('sentences', $sentences);
+                $extract->addAttribute('time', time()-$started);
 
                 $dom = new DOMDocument('1.0', 'utf-8');
                 $dom->preserveWhiteSpace = false;
@@ -106,7 +108,7 @@ $app->match('/', function(Request $request) use ($app) {
                 
                 if ($authorName == $author && $sentences == '') {
                     $fileReserved = true;
-                } else {
+                } elseif (file_exists(__DIR__.'/txt/'.$docName)) {
                     $filesAvailable[$docName]++;
                 }
             }
@@ -120,6 +122,7 @@ $app->match('/', function(Request $request) use ($app) {
             $newExtract = $extracts->addChild('extract');
             $newExtract->addAttribute('doc', $docName);
             $newExtract->addAttribute('author', $author);
+            $newExtract->addAttribute('started', time());
 
             $dom = new DOMDocument('1.0', 'utf-8');
             $dom->preserveWhiteSpace = false;
