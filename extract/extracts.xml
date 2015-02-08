@@ -1,60 +1,263 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extracts>
-  <extract doc="text49.txt" author="2ea0ff4c5338ad7afb1b1e58a4bf02bd6dc5a71f" sentences="0,1,7,11,15,19,21,27,31,41,45,47"/>
-  <extract doc="text17.txt" author="d6e0e01c4cba23b212b0db875590ff1e39e58a74" sentences="1,2,5,9,11,13,15,18,22,29,37,41"/>
-  <extract doc="text54.txt" author="d6e0e01c4cba23b212b0db875590ff1e39e58a74" sentences="1,3,4,7,8,16,17,29,30,31,36,37,59,77"/>
-  <extract doc="text44.txt" author="d6e0e01c4cba23b212b0db875590ff1e39e58a74" sentences="1,3,5,6,12,13,17,19,28,30,37,39,40,57,58,59,61"/>
   <extract doc="text41.txt" author="d6e0e01c4cba23b212b0db875590ff1e39e58a74" sentences="1,4,5,21,27,28,33,35,40,41,43,46,47,52,53,55,66,67,69,72,74,81,82,85,93,99,107,111"/>
-  <extract doc="text50.txt" author="704300818fac1b6cdda28031db938b34accbefee" sentences="0,3,6,8,9,11,14,16,19"/>
-  <extract doc="text31.txt" author="d6e0e01c4cba23b212b0db875590ff1e39e58a74" sentences="1,3,5,7,12,15,18,24,26"/>
-  <extract doc="text22.txt" author="d6e0e01c4cba23b212b0db875590ff1e39e58a74" sentences="1,3,7,8,12,18,22,24,31,33,36,41,45,46,49,57"/>
   <extract doc="text29.txt" author="d6e0e01c4cba23b212b0db875590ff1e39e58a74" sentences="1,2,3,5,6,7,9,16,19,20,21,27,30,33,39"/>
-  <extract doc="text37.txt" author="d6e0e01c4cba23b212b0db875590ff1e39e58a74" sentences="1,17,18,19,22,23,34,35,37,38,42,43"/>
-  <extract doc="text23.txt" author="7447f5e239a72d3edbd2bc5b17b17d8a65bd7e72" sentences="0,2,4,5,6,7,9,10,11,12,15,20,23,25,26,27,28,30"/>
-  <extract doc="text3.txt" author="7447f5e239a72d3edbd2bc5b17b17d8a65bd7e72" sentences="0,1,2,3,9,11,13,14,19,22,23,29,30,36,40,41,43,48"/>
-  <extract doc="text60.txt" author="7447f5e239a72d3edbd2bc5b17b17d8a65bd7e72" sentences="0,1,4,5,6,8,9,11,13,14,15,16,17,19,20,27,29,31"/>
+  <extract doc="text60.txt" author="7447f5e239a72d3edbd2bc5b17b17d8a65bd7e72" sentences="0,1,2,4,5,6,8,9,11,13,14,15,17,19,20,27,31"/>
   <extract doc="text52.txt" author="7447f5e239a72d3edbd2bc5b17b17d8a65bd7e72" sentences="0,1,3,4,6,7,8,10,12,13,17,18,21,22,25,26"/>
-  <extract doc="text42.txt" author="7447f5e239a72d3edbd2bc5b17b17d8a65bd7e72" sentences="1,2,5,6,7,8,9,10,11,12,13,16,17,21"/>
-  <extract doc="text25.txt" author="7447f5e239a72d3edbd2bc5b17b17d8a65bd7e72" sentences="1,2,3,4,5,6,7,8,9,11,15,16,21,22,24,28,29,31,33,35,37,39,44,45,56,59,61,66,67,68,69,72,73,76,78,82,83,84,87,88,89,93"/>
-  <extract doc="text55.txt" author="7447f5e239a72d3edbd2bc5b17b17d8a65bd7e72" sentences="1,3,7,9,10,19,22,23,25,30,35,41,47,49,50,51,56,67,68,76,77,90,92,102,103,106,117,119,120"/>
   <extract doc="text5.txt" author="7447f5e239a72d3edbd2bc5b17b17d8a65bd7e72" sentences="0,1,2,7,8,9,11,12,16,20,23,35,38,42,44,46,47"/>
-  <extract doc="text19.txt" author="7447f5e239a72d3edbd2bc5b17b17d8a65bd7e72" sentences="1,2,3,5,6,9,10,11,18,23,24,25,27,29,30,32,33,34,41,53,54"/>
-  <extract doc="text26.txt" author="db2b7ceeb92fd6e377e6ed12a71aaf30496320b8" sentences="0,2,3,6,7,11,13,14,17,18,19,20,23"/>
-  <extract doc="text46.txt" author="db2b7ceeb92fd6e377e6ed12a71aaf30496320b8" sentences="1,2,3,5,6,7,12,13,15,16,17,20,21,24,27,29,31,32,44,45,50"/>
-  <extract doc="text33.txt" author="db2b7ceeb92fd6e377e6ed12a71aaf30496320b8" sentences="1,2,3,5,7,8,9,13,15,16,17,21,22,23,25,27,33,38,40,44,47,49,51,53,55,60,61,62,66,68,70,75,87,89"/>
   <extract doc="text32.txt" author="db2b7ceeb92fd6e377e6ed12a71aaf30496320b8" sentences="1,3,5,6,7,9,10,11,13,15,16,18,19,21,24,25,26,27,30,32,33,34,35,36,38,54,55,59,61,62"/>
   <extract doc="text8.txt" author="db2b7ceeb92fd6e377e6ed12a71aaf30496320b8" sentences="0,1,3,8,12,13,18,19,22,25,30,32"/>
   <extract doc="text18.txt" author="0a3ba0744a62ad2333c2a58981e6f52fc1e03e72" sentences="1,2,3,6,9,10,11,12,15,16,17,20,25,27,28,29,30,31,33,35,36,48,51,52,53,54,55,57,58,59,63,68,71,72,74,77,78"/>
-  <extract doc="text12.txt" author="0a3ba0744a62ad2333c2a58981e6f52fc1e03e72" sentences="1,2,4,5,6,8,11,13,14,17,18,19,20,25,27,28,31,33,35,36,38,42,43,44,46,47,55,57,59,67,69,71,74"/>
-  <extract doc="text11.txt" author="0a3ba0744a62ad2333c2a58981e6f52fc1e03e72" sentences="1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,21,23,25,26,31,32,34,37,41,43,44,45,47,49,51,54"/>
-  <extract doc="text13.txt" author="0a3ba0744a62ad2333c2a58981e6f52fc1e03e72" sentences="0,1,3,4,5,6,7,9,10,13,14,17,18,21,23,24"/>
-  <extract doc="text57.txt" author="0a3ba0744a62ad2333c2a58981e6f52fc1e03e72" sentences="2,4,5,6,7,9,11,12,13,18,19,21,29"/>
   <extract doc="text10.txt" author="0a3ba0744a62ad2333c2a58981e6f52fc1e03e72" sentences="1,2,4,5,6,8,13,14,22,23,24,41,42,43,45,46,51,55,56,57,58,59,60,63,64,65,66,67,68,74,77"/>
-  <extract doc="text53.txt" author="0a3ba0744a62ad2333c2a58981e6f52fc1e03e72" sentences="1,2,3,4,8,11,12,13,15,16,17,22,23,24,25,26,30,33,34,36,39"/>
-  <extract doc="text21.txt" author="0a3ba0744a62ad2333c2a58981e6f52fc1e03e72" sentences="0,1,3,4,6,7,9,10,11,12,13,15,19,21,23,24,27,29,31,32,35,36,46,50"/>
-  <extract doc="text30.txt" author="0839ad708a29355442cec01c2ed84a5a56c964b2" sentences="1,3,4,5,6,10,11,12,13,14,39,42,43,44,46,47,49,52,54,60,65,67"/>
-  <extract doc="text14.txt" author="0839ad708a29355442cec01c2ed84a5a56c964b2" sentences="1,3,4,5,8,10,11,15,16,17,19,21,22,23,24"/>
-  <extract doc="text43.txt" author="0839ad708a29355442cec01c2ed84a5a56c964b2" sentences="0,1,2,3,5,4,6,9,10,13,14,20,26,28,29,31,33,35,36,38,39,43,45,46"/>
-  <extract doc="text15.txt" author="0839ad708a29355442cec01c2ed84a5a56c964b2" sentences="1,2,3,10,13,14,15,19,20,25,26,29,33,41,42,43,47,56,57,59,63,65,66,75,76,83,89"/>
-  <extract doc="text7.txt" author="bccce8fdd93fa7d374d35590ca5712c71180898c" sentences="1,2,3,6,24,27,32,34,35,36,39,40,46,49"/>
-  <extract doc="text45.txt" author="bccce8fdd93fa7d374d35590ca5712c71180898c" sentences="1,2,5,6,9,11,12,19,23,33,34,41,43,47,57,58,61,66,68,71,73"/>
-  <extract doc="text59.txt" author="bccce8fdd93fa7d374d35590ca5712c71180898c" sentences="0,1,3,5,7,11,13,14,19"/>
-  <extract doc="text58.txt" author="bccce8fdd93fa7d374d35590ca5712c71180898c" sentences="0,9,10,11,13,16,17,20,21,23,27,29,31,36,40,43"/>
-  <extract doc="text56.txt" author="bccce8fdd93fa7d374d35590ca5712c71180898c" sentences="0,1,11,14,19,20,22,23,26,28"/>
-  <extract doc="text27.txt" author="bccce8fdd93fa7d374d35590ca5712c71180898c" sentences="1,2,5,6,10,14,22,24,29,31"/>
-  <extract doc="text34.txt" author="bccce8fdd93fa7d374d35590ca5712c71180898c" sentences="0,5,6,7,8,14,15,17,18,21,22"/>
-  <extract doc="text24.txt" author="bccce8fdd93fa7d374d35590ca5712c71180898c" sentences="1,3,5,11,13,15,19,21,26,37,38,40,42,47"/>
-  <extract doc="text4.txt" author="a2ccb0ef76f22a4f664756aa44f997570d1b954e" sentences="1,9,10,12,15,16,17,19,21,22,23,25,28,29,31,33,35,38,40,44,45,51"/>
-  <extract doc="text20.txt" author="a2ccb0ef76f22a4f664756aa44f997570d1b954e" sentences="1,2,5,6,10,16,21,26,30,35,39,54,58,66,70,76"/>
-  <extract doc="text35.txt" author="a2ccb0ef76f22a4f664756aa44f997570d1b954e" sentences="1,3,6,7,11,13,14,15"/>
-  <extract doc="text28.txt" author="a2ccb0ef76f22a4f664756aa44f997570d1b954e" sentences="1,2,4,6,9,10,13,18,24,25,28,64"/>
-  <extract doc="text47.txt" author="a2ccb0ef76f22a4f664756aa44f997570d1b954e" sentences="1,3,5,6,10,19,24,25,32,34"/>
   <extract doc="text36.txt" author="a2ccb0ef76f22a4f664756aa44f997570d1b954e" sentences="0,1,2,4,7,9,14,17,18,20,24,25,26,27,29,30,33,34"/>
-  <extract doc="text16.txt" author="a2ccb0ef76f22a4f664756aa44f997570d1b954e" sentences="0,2,4,5,8,9,10,12,16,18,19,25,27,28,33,35,37,38,39,41,43,45,46,47,49"/>
-  <extract doc="text51.txt" author="a2ccb0ef76f22a4f664756aa44f997570d1b954e" sentences="1,2,4,5,9,13,14,19,20,23,24,26,31,33"/>
-  <extract doc="text38.txt" author="a2ccb0ef76f22a4f664756aa44f997570d1b954e" sentences="1,2,3,5,8,9,14,15,17,21,27,32,39,34,46,47,48,52,53,54,56,58,60,65,66,67,68"/>
-  <extract doc="text2.txt" author="a2ccb0ef76f22a4f664756aa44f997570d1b954e" sentences="0,1,2,4,6,8,9,13,14,15,17,18,24"/>
-  <extract doc="text23.txt" author="a2ccb0ef76f22a4f664756aa44f997570d1b954e" sentences="0,1,2,3,4,5,6,8,9,11,12,13,14,16,18,20,21,22,24,28,29,30"/>
-  <extract doc="text22.txt" author="dd9867da5e5bdcda7d82e7c5ba7519c2fc066f50" sentences="1,2,3,5,8,10,12,22,24,25,28,31,33,36,39,46,47,48,50,51,54,57"/>
-  <extract doc="text60.txt" author="dd9867da5e5bdcda7d82e7c5ba7519c2fc066f50"/>
+  <extract doc="text60.txt" author="dd9867da5e5bdcda7d82e7c5ba7519c2fc066f50" sentences="0,1,4,5,6,8,9,11,13,15,16,17,20,22,24,25,27,28,29,31" time="1423058409"/>
+  <extract doc="text32.txt" author="dd9867da5e5bdcda7d82e7c5ba7519c2fc066f50" sentences="1,3,5,6,7,9,10,11,12,13,15,16,19,21,22,24,26,28,30,35,36,38,40,42,44,45,54,55,58,59,62" time="1423058648"/>
+  <extract doc="text36.txt" author="dd9867da5e5bdcda7d82e7c5ba7519c2fc066f50" sentences="0,1,2,4,5,7,17,18,20,22,23,24,25,26,27,28,29,30,33,34,35" time="1423060057"/>
+  <extract doc="text41.txt" author="dd9867da5e5bdcda7d82e7c5ba7519c2fc066f50" started="1423055896" sentences="1,2,3,4,6,7,8,10,11,12,17,21,24,27,33,34,36,39,41,47,48,49,52,53,54,66,69,71,72,75,81,82,83,86,87,91,93,94,97,99,100,101,103,104,105,107,109,110,111,112,116" time="420"/>
+  <extract doc="text5.txt" author="dd9867da5e5bdcda7d82e7c5ba7519c2fc066f50" started="1423056318" sentences="0,1,2,3,4,7,8,9,10,11,12,15,16,19,20,21,22,23,35,38,40,41,42,44,47" time="167"/>
+  <extract doc="text18.txt" author="dd9867da5e5bdcda7d82e7c5ba7519c2fc066f50" started="1423057008" sentences="1,3,4,5,6,8,9,11,12,13,15,16,17,20,21,22,24,25,33,34,35,36,37,38,39,46,47,48,49,51,53,54,55,57,59,60,63,68,71,72,74,77,80" time="394"/>
+  <extract doc="text52.txt" author="f255149cca6902dc2e0cf3a70af5b55a04e35079" started="1423057403" sentences="0,1,3,4,5,6,8,9,10,12,13,14,17,21,22,25,26" time="200"/>
+  <extract doc="text8.txt" author="f255149cca6902dc2e0cf3a70af5b55a04e35079" started="1423057605" sentences="0,1,2,3,4,6,7,9,12,13,18,19,21,22,23,25,30,32" time="95"/>
+  <extract doc="text10.txt" author="f255149cca6902dc2e0cf3a70af5b55a04e35079" started="1423057948" sentences="1,2,3,4,8,14,23,24,33,41,42,43,44,45,46,48,50,51,60,63,64,65,66,67,68,74,77" time="214"/>
+  <extract doc="text29.txt" author="f255149cca6902dc2e0cf3a70af5b55a04e35079" started="1423058165" sentences="1,2,3,5,9,10,12,16,17,20,22,23,27,28,29,31,33,34,36,39,40" time="137"/>
+  <extract doc="text60.txt" author="f255149cca6902dc2e0cf3a70af5b55a04e35079" started="1423058304" sentences="0,1,3,5,6,7,8,9,11,13,14,15,16,17,29,31" time="105"/>
+  <extract doc="text32.txt" author="ee925eac2268f5008f9a8dfe1d39ff26e524d476" started="1423058413" sentences="1,3,4,6,7,9,10,11,12,13,15,16,19,21,22,26,28,30,33,34,35,40,41,54,55,58,59,62" time="235"/>
+  <extract doc="text41.txt" author="ee925eac2268f5008f9a8dfe1d39ff26e524d476" started="1423058784" sentences="1,2,3,4,5,6,7,8,9,21,22,24,27,31,32,33,36,40,41,66,68,71,72,74,75,81,82,85,86,87,88,93,97,98,99,101,104,105,107,110,111,112,115,116" time="330"/>
+  <extract doc="text18.txt" author="ee925eac2268f5008f9a8dfe1d39ff26e524d476" started="1423059116" sentences="1,2,3,6,8,9,10,11,12,15,16,17,18,20,34,35,36,38,39,40,46,47,48,49,51,52,53,54,59,60,63,68,71,72,74,77,78,81,82" time="498"/>
+  <extract doc="text5.txt" author="ee925eac2268f5008f9a8dfe1d39ff26e524d476" started="1423059632" sentences="0,1,2,4,6,7,10,11,12,13,15,16,19,20,23,24,26,35,38,39,42,44,45,47" time="155"/>
+  <extract doc="text36.txt" author="2f1a58e1167789aa68970f28a6c51c40fbb5e262" started="1423059789" sentences="0,1,4,5,6,7,9,10,11,15,17,18,20,23,24,25,27,28,29,30,33,34,35" time="268"/>
+  <extract doc="text52.txt" author="2f1a58e1167789aa68970f28a6c51c40fbb5e262" started="1423060060" sentences="0,2,3,4,6,7,8,10,12,13,17,18,21,22,23,25,26" time="122"/>
+  <extract doc="text8.txt" author="a84f27535466133271a2525cbfb6f3ae29a353c1" started="1423060308" sentences="0,1,3,8,9,11,12,13,15,16,18,19,20,21,22,25,29,30,32" time="101"/>
+  <extract doc="text10.txt" author="a84f27535466133271a2525cbfb6f3ae29a353c1" started="1423060411" sentences="1,2,3,6,7,8,9,14,41,42,43,44,45,46,47,51,53,55,60,63,68,69,70,71,74,75,79,80,82,83" time="441"/>
+  <extract doc="text29.txt" author="a84f27535466133271a2525cbfb6f3ae29a353c1" started="1423060861" sentences="1,2,5,3,9,10,16,20,21,22,27,28,31,33,39,41" time="132"/>
+  <extract doc="text60.txt" author="f1b8b33b07608b86a4f97ae617020b6e54045960" started="1423060995" sentences="0,1,3,4,5,6,8,9,11,12,13,15,16,17,20,21,24,27,29,31" time="169"/>
+  <extract doc="text32.txt" author="7f39afa9d4e6d93610f14f19a0db73ae40ab8569" started="1423061229" sentences="1,3,4,5,7,10,11,12,13,15,16,17,19,21,22,26,30,35,36,38,39,40,46,54,55,58,59,62,63" time="237"/>
+  <extract doc="text41.txt" author="7f39afa9d4e6d93610f14f19a0db73ae40ab8569" started="1423061468" sentences="1,2,3,4,5,6,7,10,11,21,22,24,27,28,31,33,35,36,40,41,42,55,63,65,66,68,69,71,72,74,75,82,93,94,97,98,99,104,105,107,109,111,112,115,116" time="487"/>
+  <extract doc="text5.txt" author="7f39afa9d4e6d93610f14f19a0db73ae40ab8569" started="1423063675" sentences="0,1,2,4,6,7,10,11,12,13,15,20,21,22,23,35,38,39,44,46,47" time="250"/>
+  <extract doc="text18.txt" author="7f39afa9d4e6d93610f14f19a0db73ae40ab8569" started="1423063992" sentences="1,2,6,11,12,14,15,16,17,18,20,25,27,28,29,30,31,32,33,34,35,36,37,38,46,47,48,49,51,59,63,71,72,73,74,77,78,80,82" time="867"/>
+  <extract doc="text36.txt" author="7f39afa9d4e6d93610f14f19a0db73ae40ab8569" started="1423068712" sentences="0,1,4,5,7,8,9,10,11,16,17,18,20,22,23,24,26,27,34,35" time="188"/>
+  <extract doc="text8.txt" author="7f39afa9d4e6d93610f14f19a0db73ae40ab8569" started="1423307709" sentences="0,2,4,6,8,9,13,14,18,19,21,22,23,24" time="327"/>
+  <extract doc="text10.txt" author="7f39afa9d4e6d93610f14f19a0db73ae40ab8569" started="1423324940" sentences="1,2,6,8,9,11,14,19,20,23,42,43,45,46,50,51,60,63,68,69,74,77,79,80,82" time="850"/>
+  <extract doc="text29.txt" author="7f39afa9d4e6d93610f14f19a0db73ae40ab8569" started="1423325792" sentences="1,2,3,5,8,16,18,19,22,27,28,31,33,39" time="204"/>
+  <extract doc="text52.txt" author="fab6e38637d72a3aa544456cbb04bc86ec743d2a" started="1423326591" sentences="0,2,6,7,8,10,17,21,22,26" time="166"/>
+  <extract doc="text41.txt" author="fab6e38637d72a3aa544456cbb04bc86ec743d2a" sentences="1,4,5,21,27,28,33,35,40,41,43,46,47,52,53,55,66,67,69,72,74,81,82,85,93,99,107,111" time="86"/>
+  <extract doc="text29.txt" author="fab6e38637d72a3aa544456cbb04bc86ec743d2a" sentences="1,2,3,5,6,7,9,16,19,20,21,27,30,33,39" time="232"/>
+  <extract doc="text60.txt" author="eda94703903bf40541c46271f8c644cc6c0eb38a" sentences="0,1,4,5,6,8,9,11,13,14,15,16,17,19,20,27,29,31" time="358"/>
+  <extract doc="text52.txt" author="7eb25f479ff1ed0f24f06a574bcb5526b6c09033" sentences="0,1,2,3,4,6,7,8,10,12,13,16,18,21,24,25,26" time="474"/>
+  <extract doc="text5.txt" author="eda94703903bf40541c46271f8c644cc6c0eb38a" sentences="0,1,2,7,8,9,11,12,16,20,23,35,38,42,44,46,47" time="157"/>
+  <extract doc="text8.txt" author="a518f906bcea0c88616a747000e83fcefae7277a" sentences="0,1,3,8,12,13,18,19,22,25,30,32" time="145"/>
+  <extract doc="text18.txt" author="c57d213e05bb062af43ee75299bc4758540cb150" sentences="1,2,3,6,9,10,11,12,15,16,17,20,25,27,28,29,30,31,33,35,36,48,51,52,53,54,55,57,58,59,63,68,71,72,74,77,78" time="79"/>
+  <extract doc="text10.txt" author="fab6e38637d72a3aa544456cbb04bc86ec743d2a" sentences="1,2,4,5,6,8,13,14,22,23,24,41,42,43,45,46,51,55,56,57,58,59,60,63,64,65,66,67,68,74,77" time="213"/>
+  <extract doc="text36.txt" author="ea2abc30d5b338223b13b1ac4ea4e538e8058d97" sentences="0,1,2,4,7,9,14,17,18,20,24,25,26,27,29,30,33,34" time="370"/>
+  <extract doc="text60.txt" author="54828b7ecbaf118fa6e2300645d6c4d6716d8296" sentences="0,1,4,5,6,8,9,11,13,15,16,17,20,22,24,25,27,28,29,31" time="1423058726"/>
+  <extract doc="text32.txt" author="fab6e38637d72a3aa544456cbb04bc86ec743d2a" sentences="1,3,5,6,7,9,10,11,12,13,15,16,19,21,22,24,26,28,30,35,36,38,40,42,44,45,54,55,58,59,62" time="1423058761"/>
+  <extract doc="text36.txt" author="eda94703903bf40541c46271f8c644cc6c0eb38a" sentences="0,1,2,4,5,7,17,18,20,22,23,24,25,26,27,28,29,30,33,34,35" time="1423060219"/>
+  <extract doc="text41.txt" author="1dc71a6cda8c285d9ffdd7f9e090e64aa4f1f99a" sentences="1,2,3,4,6,7,8,10,11,12,17,21,24,27,33,34,36,39,41,47,48,49,52,53,54,66,69,71,72,75,81,82,83,86,87,91,93,94,97,99,100,101,103,104,105,107,109,110,111,112,116" time="664"/>
+  <extract doc="text5.txt" author="fab6e38637d72a3aa544456cbb04bc86ec743d2a" sentences="0,1,2,3,4,7,8,9,10,11,12,15,16,19,20,21,22,23,35,38,40,41,42,44,47" time="611"/>
+  <extract doc="text18.txt" author="54828b7ecbaf118fa6e2300645d6c4d6716d8296" sentences="1,3,4,5,6,8,9,11,12,13,15,16,17,20,21,22,24,25,33,34,35,36,37,38,39,46,47,48,49,51,53,54,55,57,59,60,63,68,71,72,74,77,80" time="706"/>
+  <extract doc="text52.txt" author="297c9ece4d79ca5a6cbc607c32b3672398d61937" sentences="0,1,3,4,5,6,8,9,10,12,13,14,17,21,22,25,26" time="268"/>
+  <extract doc="text8.txt" author="2a3e51cbddf2015f42eaf3a3521c9d626802b00e" sentences="0,1,2,3,4,6,7,9,12,13,18,19,21,22,23,25,30,32" time="537"/>
+  <extract doc="text10.txt" author="9f88d2fbf0b081b8cc145e14de2b5bd7eaa7dcac" sentences="1,2,3,4,8,14,23,24,33,41,42,43,44,45,46,48,50,51,60,63,64,65,66,67,68,74,77" time="675"/>
+  <extract doc="text29.txt" author="9f88d2fbf0b081b8cc145e14de2b5bd7eaa7dcac" sentences="1,2,3,5,9,10,12,16,17,20,22,23,27,28,29,31,33,34,36,39,40" time="326"/>
+  <extract doc="text60.txt" author="7447f5e239a72d3edbd2bc5b17b17d8a65bd7e72" sentences="0,1,3,5,6,9,11,13,14,15,16,17,29,31" time="405"/>
+  <extract doc="text32.txt" author="4276f73873481357ef199826f790de7fa31b8991" sentences="1,3,4,6,7,9,10,11,12,13,15,16,19,21,22,26,28,30,33,34,35,40,41,54,55,58,59,62" time="390"/>
+  <extract doc="text18.txt" author="297c9ece4d79ca5a6cbc607c32b3672398d61937" sentences="1,2,3,6,8,9,10,11,12,15,16,17,18,20,34,35,36,38,39,40,46,47,48,49,51,52,53,54,59,60,63,68,71,72,74,77,78,81,82" time="756"/>
+  <extract doc="text5.txt" author="54828b7ecbaf118fa6e2300645d6c4d6716d8296" sentences="0,1,2,4,6,7,10,11,12,13,15,16,19,20,23,24,26,35,38,39,42,44,45,47" time="284"/>
+  <extract doc="text36.txt" author="a771624ca3188ff2d25e59261f0569d9b6c8d335" sentences="0,1,4,5,6,7,9,10,11,15,17,18,20,23,24,25,27,28,29,30,33,34,35" time="674"/>
+  <extract doc="text52.txt" author="a771624ca3188ff2d25e59261f0569d9b6c8d335" sentences="0,2,3,4,6,7,8,10,12,13,17,18,21,22,23,25,26" time="142"/>
+  <extract doc="text8.txt" author="c8910cec87a50c90134e1ecba795e57cb47d0706" sentences="0,1,3,8,9,11,12,13,15,16,18,19,20,21,22,25,29,30,32" time="290"/>
+  <extract doc="text10.txt" author="c22b5e8fb6943d2272863f5470757c505d34779c" sentences="1,2,3,6,7,8,9,14,41,42,43,44,45,46,47,51,53,55,60,63,68,69,70,71,74,75,79,80,82,83" time="499"/>
+  <extract doc="text29.txt" author="c22b5e8fb6943d2272863f5470757c505d34779c" sentences="1,2,5,3,9,10,16,20,21,22,27,28,31,33,39,41" time="200"/>
+  <extract doc="text60.txt" author="3eac1020dbf37d51d4211b6e3c6bc3c7b37b55a8" sentences="0,1,3,4,5,6,8,9,11,12,13,15,16,17,20,21,24,27,29,31" time="474"/>
+  <extract doc="text32.txt" author="9ae9b93d68f9a491b91eb05ff86a0fb96dad2bef" sentences="1,3,4,5,7,10,11,12,13,15,16,17,19,21,22,26,30,35,36,38,39,40,46,54,55,58,59,62,63" time="515"/>
+  <extract doc="text5.txt" author="c22b5e8fb6943d2272863f5470757c505d34779c" sentences="0,1,2,4,6,7,10,11,12,13,15,20,21,22,23,35,38,39,44,46,47" time="323"/>
+  <extract doc="text18.txt" author="b8273f1997ac81f4f0909a6d2a8938aabdaa1415" sentences="1,2,6,11,12,14,15,16,17,18,20,25,27,28,29,30,31,32,33,34,35,36,37,38,46,47,48,49,51,59,63,71,72,73,74,77,78,80,82" time="908"/>
+  <extract doc="text36.txt" author="3eac1020dbf37d51d4211b6e3c6bc3c7b37b55a8" sentences="0,1,4,5,7,8,9,10,11,16,17,18,20,22,23,24,26,27,34,35" time="240"/>
+  <extract doc="text8.txt" author="9edb98fcb87d9a1f06ea1cf608a40a984b8e62c1" sentences="0,2,4,6,8,9,13,14,18,19,21,22,23,24" time="426"/>
+  <extract doc="text36.txt" author="64a52a3eebdb08d4e8a1b0998831c973692ae718" sentences="0,1,4,5,6,7,9,10,11,15,17,18,20,23,24,25,27,28,29,30,33,34,35" time="550"/>
+  <extract doc="text10.txt" author="7eb25f479ff1ed0f24f06a574bcb5526b6c09033" sentences="1,2,6,8,9,11,14,19,20,23,42,43,45,46,50,51,60,63,68,69,74,77,79,80,82" time="1189"/>
+  <extract doc="text29.txt" author="b8273f1997ac81f4f0909a6d2a8938aabdaa1415" sentences="1,2,3,5,8,16,18,19,22,27,28,31,33,39" time="652"/>
+  <extract doc="text52.txt" author="32548500974529dc60dd1e7142acdcafb5057e10" sentences="0,2,6,7,8,10,17,21,22,26" time="352"/>
+  <extract doc="text41.txt" author="a7647bc07b9b0d4718f634d68c0be8694a013269" sentences="1,4,5,21,27,28,33,35,40,41,43,46,47,52,53,55,66,67,69,72,74,81,82,85,93,99,107,111" time="419"/>
+  <extract doc="text29.txt" author="de8b14b747ee3cdd28d3372e94fe2552782749ca" sentences="1,2,3,5,6,7,9,16,19,20,21,27,30,33,39" time="179"/>
+  <extract doc="text60.txt" author="9ae9b93d68f9a491b91eb05ff86a0fb96dad2bef" sentences="0,1,4,5,6,8,9,11,13,14,15,16,17,19,20,27,29,31" time="332"/>
+  <extract doc="text52.txt" author="7eb25f479ff1ed0f24f06a574bcb5526b6c09033" sentences="0,1,3,4,6,7,8,10,12,13,17,18,21,22,25,26" time="200"/>
+  <extract doc="text5.txt" author="a7647bc07b9b0d4718f634d68c0be8694a013269" sentences="0,1,2,7,8,9,11,12,16,20,23,35,38,42,44,46,47" time="148"/>
+  <extract doc="text32.txt" author="fef4d1cf7612bb154b4c65a7bc8cb8a0b5df27c2" sentences="1,3,5,6,7,9,10,11,13,15,16,18,19,21,24,25,26,27,30,32,33,34,35,36,38,54,55,59,61,62" time="366"/>
+  <extract doc="text8.txt" author="a518f906bcea0c88616a747000e83fcefae7277a" sentences="0,1,2,3,7,8,12,13,18,19,22,25,30,31" time="407"/>
+  <extract doc="text18.txt" author="4276f73873481357ef199826f790de7fa31b8991" sentences="1,2,3,6,9,10,11,12,15,16,17,20,25,27,28,29,30,31,33,35,36,48,51,52,53,54,55,57,58,59,63,68,71,72,74,77,78" time="180"/>
+  <extract doc="text10.txt" author="2a3e51cbddf2015f42eaf3a3521c9d626802b00e" sentences="1,2,4,5,6,8,13,14,22,23,24,41,42,43,45,46,51,55,56,57,58,59,60,63,64,65,66,67,68,74,77" time="126"/>
+  <extract doc="text36.txt" author="ea2abc30d5b338223b13b1ac4ea4e538e8058d97" sentences="0,1,2,4,7,9,14,17,18,20,24,25,26,27,29,30,33,34" time="307"/>
+  <extract doc="text60.txt" author="1dc71a6cda8c285d9ffdd7f9e090e64aa4f1f99a" sentences="0,1,4,5,6,8,9,11,13,15,16,17,20,22,24,25,27,28,29,31" time="1423058682"/>
+  <extract doc="text32.txt" author="7f39afa9d4e6d93610f14f19a0db73ae40ab8569" sentences="1,3,5,6,7,9,10,11,12,13,15,16,19,21,22,24,26,28,30,35,36,38,40,42,44,45,54,55,58,59,62" time="1423058955"/>
+  <extract doc="text36.txt" author="fab6e38637d72a3aa544456cbb04bc86ec743d2a" sentences="0,1,2,4,5,7,17,18,20,22,23,24,25,26,27,28,29,30,33,34,35" time="1423060433"/>
+  <extract doc="text41.txt" author="be71acac1c3a9b5ea416b73194454dddc334b20d" sentences="1,2,3,4,6,7,8,10,11,12,17,21,24,27,33,34,36,39,41,47,48,49,52,53,54,66,69,71,72,75,81,82,83,86,87,91,93,94,97,99,100,101,103,104,105,107,109,110,111,112,116" time="745"/>
+  <extract doc="text5.txt" author="a518f906bcea0c88616a747000e83fcefae7277a" sentences="0,1,2,3,4,7,8,9,10,11,12,15,16,19,20,21,22,23,35,38,40,41,42,44,47" time="272"/>
+  <extract doc="text18.txt" author="ea2abc30d5b338223b13b1ac4ea4e538e8058d97" sentences="1,3,4,5,6,8,9,11,12,13,15,16,17,20,21,22,24,25,33,34,35,36,37,38,39,46,47,48,49,51,53,54,55,57,59,60,63,68,71,72,74,77,80" time="632"/>
+  <extract doc="text52.txt" author="9f88d2fbf0b081b8cc145e14de2b5bd7eaa7dcac" sentences="0,1,3,4,5,6,8,9,10,12,13,14,17,21,22,25,26" time="658"/>
+  <extract doc="text8.txt" author="9f88d2fbf0b081b8cc145e14de2b5bd7eaa7dcac" sentences="0,1,2,3,4,6,7,9,12,13,18,19,21,22,23,25,30,32" time="336"/>
+  <extract doc="text10.txt" author="2a3e51cbddf2015f42eaf3a3521c9d626802b00e" sentences="1,2,3,4,8,14,23,24,33,41,42,43,44,45,46,48,50,51,60,63,64,65,66,67,68,74,77" time="555"/>
+  <extract doc="text29.txt" author="c57d213e05bb062af43ee75299bc4758540cb150" sentences="1,2,3,5,9,10,12,16,17,20,22,23,27,28,29,31,33,34,36,39,40" time="457"/>
+  <extract doc="text60.txt" author="224c7d4917eae91c814f54d1bcf4d83ae5dcd2e3" sentences="0,1,3,5,6,7,8,9,11,13,14,15,16,17,29,31" time="214"/>
+  <extract doc="text32.txt" author="a771624ca3188ff2d25e59261f0569d9b6c8d335" sentences="1,3,4,6,7,9,10,11,12,13,15,16,19,21,22,26,28,30,33,34,35,40,41,54,55,58,59,62" time="476"/>
+  <extract doc="text41.txt" author="fef4d1cf7612bb154b4c65a7bc8cb8a0b5df27c2" sentences="1,2,3,4,5,6,7,8,9,21,22,24,27,31,32,36,40,41,66,68,71,72,74,75,81,82,85,86,87,88,93,97,98,99,101,104,105,107,110,111,112,115,116" time="366"/>
+  <extract doc="text18.txt" author="fef4d1cf7612bb154b4c65a7bc8cb8a0b5df27c2" sentences="1,2,3,6,8,9,10,11,12,15,16,17,18,20,34,35,36,38,39,40,46,47,48,49,51,52,53,54,59,60,63,68,71,72,74,77,78,81,82" time="988"/>
+  <extract doc="text5.txt" author="224c7d4917eae91c814f54d1bcf4d83ae5dcd2e3" sentences="0,1,2,4,6,7,10,11,12,13,15,16,19,20,23,24,26,35,38,39,42,44,45,47" time="311"/>
+  <extract doc="text52.txt" author="64a52a3eebdb08d4e8a1b0998831c973692ae718" sentences="0,2,3,4,6,7,8,10,12,13,17,18,21,22,23,25,26" time="161"/>
+  <extract doc="text8.txt" author="7eb25f479ff1ed0f24f06a574bcb5526b6c09033" sentences="0,1,2,3,4,9,11,12,13,15,16,18,19,20,21,22,25,29,30,31" time="195"/>
+  <extract doc="text10.txt" author="6f5f8c311eef37c198f1c8b461591847657730d1" sentences="1,2,3,6,7,8,9,41,42,43,44,45,46,47,51,53,55,60,63,68,69,70,71,74,75,79,80,82" time="465"/>
+  <extract doc="text29.txt" author="109848b5727f66e435ad36b5ebab3bfa7d41b131" sentences="1,2,5,3,9,10,16,20,21,22,27,28,31,33,39,41" time="319"/>
+  <extract doc="text60.txt" author="b8273f1997ac81f4f0909a6d2a8938aabdaa1415" sentences="0,1,3,4,5,6,8,9,11,12,13,15,16,17,20,21,24,27,29,31" time="291"/>
+  <extract doc="text32.txt" author="9ae9b93d68f9a491b91eb05ff86a0fb96dad2bef" sentences="1,3,4,5,7,10,11,12,13,15,16,17,19,21,22,26,30,35,36,38,39,40,46,54,55,58,59,62,63" time="318"/>
+  <extract doc="text60.txt" author="9ae9b93d68f9a491b91eb05ff86a0fb96dad2bef" sentences="0,4,5,6,8,9,11,13,14,15,16,17,19,20,29,30,31" time="387"/>
+  <extract doc="text41.txt" author="515bead78bc8323aca33cebb114246284041947f" sentences="1,2,3,4,5,6,7,10,11,21,22,24,27,28,31,33,35,36,40,41,42,55,63,65,66,68,69,71,72,74,75,82,93,94,97,98,99,104,105,107,109,111,112,115,116" time="715"/>
+  <extract doc="text5.txt" author="b8273f1997ac81f4f0909a6d2a8938aabdaa1415" sentences="0,1,2,4,6,7,10,11,12,13,15,20,21,22,23,35,38,39,44,46,47" time="327"/>
+  <extract doc="text18.txt" author="34403ed7912bec03147b222a3dfa4a2fce595f38" sentences="1,2,6,11,12,14,15,16,17,18,20,25,27,28,29,30,31,32,33,34,35,36,37,38,46,47,48,49,51,59,63,71,72,73,74,77,78,80,82" time="961"/>
+  <extract doc="text36.txt" author="224c7d4917eae91c814f54d1bcf4d83ae5dcd2e3" sentences="0,1,4,5,7,8,9,10,11,16,17,18,20,22,23,24,26,27,34,35" time="450"/>
+  <extract doc="text8.txt" author="c22b5e8fb6943d2272863f5470757c505d34779c" sentences="0,2,4,6,8,9,13,14,18,19,21,22,23,24" time="523"/>
+  <extract doc="text10.txt" author="7eb25f479ff1ed0f24f06a574bcb5526b6c09033" sentences="1,2,6,8,9,11,14,19,20,23,42,43,45,46,50,51,60,63,68,69,74,77,79,80,82" time="1281"/>
+  <extract doc="text29.txt" author="224c7d4917eae91c814f54d1bcf4d83ae5dcd2e3" sentences="1,2,3,4,5,8,16,18,19,22,27,28,31,33" time="395"/>
+  <extract doc="text52.txt" author="4276f73873481357ef199826f790de7fa31b8991" sentences="0,2,6,7,8,10,17,21,22,26" time="513"/>
+  <extract doc="text41.txt" author="de8b14b747ee3cdd28d3372e94fe2552782749ca" sentences="1,4,5,21,27,28,33,35,40,41,43,46,47,52,53,55,66,67,69,72,74,81,82,85,93,99,107,111" time="207"/>
+  <extract doc="text29.txt" author="eda94703903bf40541c46271f8c644cc6c0eb38a" sentences="1,2,3,5,6,7,9,16,19,20,21,27,30,33,39" time="270"/>
+  <extract doc="text52.txt" author="a7647bc07b9b0d4718f634d68c0be8694a013269" sentences="0,1,3,4,6,7,8,10,12,13,17,18,21,22,25,26" time="239"/>
+  <extract doc="text5.txt" author="7eb25f479ff1ed0f24f06a574bcb5526b6c09033" sentences="0,1,2,7,8,9,11,12,16,20,23,35,38,42,44,46,47" time="149"/>
+  <extract doc="text32.txt" author="32548500974529dc60dd1e7142acdcafb5057e10" sentences="1,3,5,6,7,9,10,11,13,15,16,18,19,21,24,25,26,27,30,32,33,34,35,36,38,54,55,59,61,62" time="21"/>
+  <extract doc="text8.txt" author="54828b7ecbaf118fa6e2300645d6c4d6716d8296" sentences="0,1,3,8,12,13,18,19,22,25,30,32" time="412"/>
+  <extract doc="text18.txt" author="7eb25f479ff1ed0f24f06a574bcb5526b6c09033" sentences="1,2,3,6,9,10,11,12,15,16,17,20,25,27,28,29,30,31,33,35,36,48,51,52,53,54,55,57,58,59,63,68,71,72,74,77,78" time="193"/>
+  <extract doc="text10.txt" author="224c7d4917eae91c814f54d1bcf4d83ae5dcd2e3" sentences="1,2,4,5,6,8,13,14,22,23,24,41,42,43,45,46,51,55,56,57,58,59,60,63,64,65,66,67,68,74,77" time="198"/>
+  <extract doc="text36.txt" author="1dc71a6cda8c285d9ffdd7f9e090e64aa4f1f99a" sentences="0,1,2,4,7,9,14,17,18,20,24,25,26,27,29,30,33,34" time="150"/>
+  <extract doc="text60.txt" author="515bead78bc8323aca33cebb114246284041947f" sentences="0,1,4,5,6,8,9,11,13,15,16,17,20,22,24,25,27,28,29,31" time="1423058541"/>
+  <extract doc="text32.txt" author="fab6e38637d72a3aa544456cbb04bc86ec743d2a" sentences="1,3,5,6,7,9,10,11,12,13,15,16,19,21,22,24,26,28,30,35,36,38,40,42,44,45,54,55,58,59,62" time="1423058934"/>
+  <extract doc="text36.txt" author="a7647bc07b9b0d4718f634d68c0be8694a013269" sentences="0,1,2,4,5,7,17,18,20,22,23,24,25,26,27,28,29,30,33,34,35" time="1423060439"/>
+  <extract doc="text41.txt" author="be71acac1c3a9b5ea416b73194454dddc334b20d" sentences="1,2,3,4,6,7,8,10,11,12,17,21,24,27,33,34,36,39,41,47,48,49,52,53,54,66,69,71,72,75,81,82,83,86,87,91,93,94,97,99,100,101,103,104,105,107,109,110,111,112,116" time="861"/>
+  <extract doc="text5.txt" author="a518f906bcea0c88616a747000e83fcefae7277a" sentences="0,1,2,3,4,7,8,9,10,11,12,15,16,19,20,21,22,23,35,38,40,41,42,44,47" time="194"/>
+  <extract doc="text18.txt" author="9f88d2fbf0b081b8cc145e14de2b5bd7eaa7dcac" sentences="1,3,4,5,6,8,9,11,12,13,15,16,17,20,21,22,24,25,33,34,35,36,37,38,39,46,47,48,49,51,53,54,55,57,59,60,63,68,71,72,74,77,80" time="671"/>
+  <extract doc="text52.txt" author="9f88d2fbf0b081b8cc145e14de2b5bd7eaa7dcac" sentences="0,1,3,4,5,6,8,9,10,12,13,14,17,21,22,25,26" time="401"/>
+  <extract doc="text8.txt" author="9f88d2fbf0b081b8cc145e14de2b5bd7eaa7dcac" sentences="0,1,2,3,4,6,7,9,12,13,18,19,21,22,23,25,30,32" time="355"/>
+  <extract doc="text10.txt" author="4276f73873481357ef199826f790de7fa31b8991" sentences="1,2,3,4,8,14,23,24,33,41,42,43,44,45,46,48,50,51,60,63,64,65,66,67,68,74,77" time="573"/>
+  <extract doc="text29.txt" author="2a3e51cbddf2015f42eaf3a3521c9d626802b00e" sentences="1,2,3,5,9,10,12,16,17,20,22,23,27,28,29,31,33,34,36,39,40" time="267"/>
+  <extract doc="text60.txt" author="44156262e1d47856a10fa40fb9b6dcb4c51eb761" sentences="0,1,3,5,6,7,8,9,11,13,14,15,16,17,29,31" time="239"/>
+  <extract doc="text32.txt" author="297c9ece4d79ca5a6cbc607c32b3672398d61937" sentences="1,3,4,6,7,9,10,11,12,13,15,16,19,21,22,26,28,30,33,34,35,40,41,54,55,58,59,62" time="366"/>
+  <extract doc="text41.txt" author="44156262e1d47856a10fa40fb9b6dcb4c51eb761" sentences="1,2,3,4,5,9,11,21,22,24,27,31,32,36,40,41,66,68,71,72,74,75,81,82,85,86,87,88,93,97,98,99,101,104,105,107,110,111,114,115,116" time="584"/>
+  <extract doc="text18.txt" author="224c7d4917eae91c814f54d1bcf4d83ae5dcd2e3" sentences="1,2,3,6,8,9,10,11,12,15,16,17,18,20,34,35,36,38,39,40,46,47,48,49,51,52,53,54,59,60,63,68,71,72,74,77,78,81,82" time="855"/>
+  <extract doc="text5.txt" author="515bead78bc8323aca33cebb114246284041947f" sentences="0,1,2,4,6,7,10,11,12,13,15,16,19,20,23,24,26,35,38,39,42,44,45,47" time="634"/>
+  <extract doc="text36.txt" author="7b162d9e32761a6fcbae5dfbd3818cf245f70cb9" sentences="0,1,4,5,6,7,9,10,11,15,17,18,20,23,24,25,27,28,29,30,33,34,35" time="696"/>
+  <extract doc="text52.txt" author="64a52a3eebdb08d4e8a1b0998831c973692ae718" sentences="0,2,3,4,6,7,8,10,12,13,17,18,21,22,23,25,26" time="249"/>
+  <extract doc="text8.txt" author="c57d213e05bb062af43ee75299bc4758540cb150" sentences="0,1,3,8,9,11,12,13,15,16,18,19,20,21,22,25,29,30,32" time="353"/>
+  <extract doc="text10.txt" author="6f5f8c311eef37c198f1c8b461591847657730d1" sentences="1,2,3,6,7,8,9,14,41,42,43,44,45,46,47,51,53,55,60,63,68,69,70,71,74,75,79,80,82,83" time="609"/>
+  <extract doc="text29.txt" author="9ae9b93d68f9a491b91eb05ff86a0fb96dad2bef" sentences="1,2,5,3,9,10,16,20,21,22,27,28,31,33,39,41" time="289"/>
+  <extract doc="text60.txt" author="3eac1020dbf37d51d4211b6e3c6bc3c7b37b55a8" sentences="0,1,3,4,5,6,8,9,11,12,13,15,16,17,20,21,24,27,29,31" time="336"/>
+  <extract doc="text32.txt" author="9ae9b93d68f9a491b91eb05ff86a0fb96dad2bef" sentences="1,3,4,5,7,10,11,12,13,15,16,17,19,21,22,26,30,35,36,38,39,40,46,54,55,58,59,62,63" time="528"/>
+  <extract doc="text41.txt" author="befe2c68f1ecb08deb2651e905d558a8897cb24c" sentences="1,2,3,4,5,6,7,10,11,21,22,24,27,28,31,33,35,36,40,41,42,55,63,65,66,68,69,71,72,74,75,82,93,94,97,98,99,104,105,107,109,111,112,115,116" time="595"/>
+  <extract doc="text5.txt" author="3eac1020dbf37d51d4211b6e3c6bc3c7b37b55a8" sentences="0,1,2,4,6,7,10,11,12,13,15,20,21,22,23,35,38,39,44,46,47" time="332"/>
+  <extract doc="text18.txt" author="34403ed7912bec03147b222a3dfa4a2fce595f38" sentences="1,6,7,11,12,14,15,16,17,18,20,25,27,28,29,30,31,32,33,34,35,36,37,38,46,47,48,49,51,59,63,71,73,74,77,78,80,82" time="1218"/>
+  <extract doc="text36.txt" author="b8273f1997ac81f4f0909a6d2a8938aabdaa1415" sentences="0,1,4,5,7,8,9,10,11,16,17,18,20,22,23,24,26,27,34,35" time="517"/>
+  <extract doc="text8.txt" author="105411cf70e40b84e3db35454887458a5b7d4bdf" sentences="0,2,4,6,8,9,13,14,18,19,21,22,23,24" time="773"/>
+  <extract doc="text10.txt" author="7eb25f479ff1ed0f24f06a574bcb5526b6c09033" sentences="1,2,6,8,9,11,14,19,20,23,42,43,45,46,50,51,60,63,68,69,74,77,79,80,82" time="1132"/>
+  <extract doc="text29.txt" author="515bead78bc8323aca33cebb114246284041947f" sentences="1,2,3,5,8,16,18,19,22,27,28,31,33,39" time="350"/>
+  <extract doc="text41.txt" author="7eb25f479ff1ed0f24f06a574bcb5526b6c09033" sentences="1,4,5,21,27,28,33,35,40,41,43,46,47,52,53,55,66,67,69,72,74,81,82,85,93,99,107,111" time="306"/>
+  <extract doc="text29.txt" author="de8b14b747ee3cdd28d3372e94fe2552782749ca" sentences="1,2,3,5,6,7,9,16,19,20,21,27,30,33,39" time="21"/>
+  <extract doc="text60.txt" author="a7647bc07b9b0d4718f634d68c0be8694a013269" sentences="0,1,4,5,6,8,9,11,13,14,15,16,17,19,20,27,29,31" time="466"/>
+  <extract doc="text52.txt" author="eda94703903bf40541c46271f8c644cc6c0eb38a" sentences="0,1,3,4,6,7,8,10,12,13,17,18,21,22,25,26" time="74"/>
+  <extract doc="text5.txt" author="a7647bc07b9b0d4718f634d68c0be8694a013269" sentences="0,1,2,7,8,9,11,12,16,20,23,35,38,42,44,46,47" time="117"/>
+  <extract doc="text32.txt" author="98a65f4fe41851fd384f9b9fff24f8a5cb28a8f2" sentences="1,3,5,6,7,9,10,11,13,15,16,18,19,21,24,25,26,27,30,32,33,34,35,36,38,54,55,59,61,62" time="197"/>
+  <extract doc="text8.txt" author="a518f906bcea0c88616a747000e83fcefae7277a" sentences="0,1,3,8,12,13,18,19,22,25,30,32" time="198"/>
+  <extract doc="text18.txt" author="c57d213e05bb062af43ee75299bc4758540cb150" sentences="1,2,3,6,9,10,11,12,15,16,17,20,25,27,28,29,30,31,33,35,36,48,51,52,53,54,55,57,58,59,63,68,71,72,74,77,78" time="459"/>
+  <extract doc="text36.txt" author="54828b7ecbaf118fa6e2300645d6c4d6716d8296" sentences="0,1,2,4,7,9,14,17,18,20,24,25,26,27,29,30,33,34" time="202"/>
+  <extract doc="text60.txt" author="ea2abc30d5b338223b13b1ac4ea4e538e8058d97" sentences="0,1,4,5,6,8,9,11,13,15,16,17,20,22,24,25,27,28,29,31" time="1423058903"/>
+  <extract doc="text32.txt" author="fab6e38637d72a3aa544456cbb04bc86ec743d2a" sentences="1,3,5,6,7,9,10,11,12,13,15,16,19,21,22,24,26,28,30,35,36,38,40,42,44,45,54,55,58,59,62" time="1423059131"/>
+  <extract doc="text29.txt" author="9ae9b93d68f9a491b91eb05ff86a0fb96dad2bef" sentences="1,2,5,3,9,10,16,20,21,22,27,28,31,33,39,41" time="199"/>
+  <extract doc="text36.txt" author="a7647bc07b9b0d4718f634d68c0be8694a013269" sentences="0,1,2,4,5,7,17,18,20,22,23,24,25,26,27,28,29,30,33,34,35" time="1423060083"/>
+  <extract doc="text41.txt" author="9f88d2fbf0b081b8cc145e14de2b5bd7eaa7dcac" sentences="1,2,3,4,6,7,8,10,11,12,17,21,24,27,33,34,36,39,41,47,48,49,52,53,54,66,69,71,72,75,81,82,83,86,87,91,93,94,97,99,100,101,103,104,105,107,109,110,111,112,116" time="540"/>
+  <extract doc="text5.txt" author="a518f906bcea0c88616a747000e83fcefae7277a" sentences="0,1,2,3,4,7,8,9,10,11,12,15,16,19,20,21,22,23,35,38,40,41,42,44,47" time="407"/>
+  <extract doc="text18.txt" author="1dc71a6cda8c285d9ffdd7f9e090e64aa4f1f99a" sentences="1,3,4,5,6,8,9,11,12,13,15,16,17,20,21,22,24,25,33,34,35,36,37,38,39,46,47,48,49,51,53,54,55,57,59,60,63,68,71,72,74,77,80" time="661"/>
+  <extract doc="text52.txt" author="1dc71a6cda8c285d9ffdd7f9e090e64aa4f1f99a" sentences="0,1,3,4,5,6,8,9,10,12,13,14,17,21,22,25,26" time="405"/>
+  <extract doc="text8.txt" author="be71acac1c3a9b5ea416b73194454dddc334b20d" sentences="0,1,2,3,4,6,7,9,12,13,18,19,21,22,23,25,30,32" time="174"/>
+  <extract doc="text29.txt" author="ab188d58bbd16a8b975f9d20be181fa0e148422b" sentences="1,2,3,5,9,10,12,16,17,20,22,23,27,28,29,31,33,34,36,39,40" time="524"/>
+  <extract doc="text60.txt" author="0689bde6ec24e3b8ee45b465a0b15229c0f3d906" sentences="0,1,3,5,6,7,8,9,11,13,14,15,16,17,29,31" time="478"/>
+  <extract doc="text32.txt" author="9f88d2fbf0b081b8cc145e14de2b5bd7eaa7dcac" sentences="1,3,4,6,7,9,10,11,12,13,15,16,19,21,22,26,28,30,33,34,35,40,41,54,55,58,59,62" time="399"/>
+  <extract doc="text41.txt" author="44156262e1d47856a10fa40fb9b6dcb4c51eb761" sentences="1,2,3,4,5,6,7,8,9,21,22,24,27,31,32,33,36,40,41,66,68,71,72,74,75,81,82,85,86,87,88,93,97,98,99,101,104,105,107,110,111,112,115,116" time="662"/>
+  <extract doc="text18.txt" author="befe2c68f1ecb08deb2651e905d558a8897cb24c" sentences="1,2,3,6,8,9,10,11,12,15,16,17,18,20,34,35,36,38,39,40,46,47,48,49,51,52,53,54,59,60,63,68,71,72,74,77,78,81,82" time="978"/>
+  <extract doc="text5.txt" author="224c7d4917eae91c814f54d1bcf4d83ae5dcd2e3" sentences="0,1,2,4,6,7,10,11,12,13,15,16,19,20,23,24,26,35,38,39,42,44,45,47" time="580"/>
+  <extract doc="text36.txt" author="7eb25f479ff1ed0f24f06a574bcb5526b6c09033" sentences="0,1,4,5,6,7,9,10,11,15,17,18,20,23,24,25,27,28,29,30,33,34,35" time="520"/>
+  <extract doc="text52.txt" author="d1ec38cb52bf18853ea500b24fef9add97f36d58" sentences="0,2,3,4,6,7,8,10,12,13,17,18,21,22,23,25,26" time="342"/>
+  <extract doc="text8.txt" author="7eb25f479ff1ed0f24f06a574bcb5526b6c09033" sentences="0,1,3,8,9,11,12,13,15,16,18,19,20,21,22,25,29,30,32" time="434"/>
+  <extract doc="text60.txt" author="c22b5e8fb6943d2272863f5470757c505d34779c" sentences="0,1,3,4,5,6,8,9,11,12,13,15,16,17,20,21,24,27,29,31" time="606"/>
+  <extract doc="text32.txt" author="224c7d4917eae91c814f54d1bcf4d83ae5dcd2e3" sentences="1,3,4,5,7,10,11,12,13,15,16,17,19,21,22,26,30,35,36,38,39,40,46,54,55,58,59,62,63" time="681"/>
+  <extract doc="text41.txt" author="7b162d9e32761a6fcbae5dfbd3818cf245f70cb9" sentences="1,2,3,4,5,6,7,10,11,21,22,24,27,28,31,33,35,36,40,41,42,55,63,65,66,68,69,71,72,74,75,82,93,94,97,98,99,104,105,107,109,111,112,115,116" time="515"/>
+  <extract doc="text5.txt" author="109848b5727f66e435ad36b5ebab3bfa7d41b131" sentences="0,1,2,4,6,7,10,11,12,13,15,20,21,22,23,35,38,39,44,46,47" time="509"/>
+  <extract doc="text36.txt" author="b8273f1997ac81f4f0909a6d2a8938aabdaa1415" sentences="0,1,4,5,7,8,9,10,11,16,17,18,20,22,23,24,26,27,34,35" time="271"/>
+  <extract doc="text8.txt" author="0c31a01cd864f68b604627fd799ac9e111e7a596" sentences="0,2,4,6,8,9,13,14,18,19,21,22,23,24" time="709"/>
+  <extract doc="text29.txt" author="fef4d1cf7612bb154b4c65a7bc8cb8a0b5df27c2" sentences="1,2,3,5,8,16,18,19,22,27,28,31,33,39" time="438"/>
+  <extract doc="text52.txt" author="befe2c68f1ecb08deb2651e905d558a8897cb24c" sentences="0,2,6,7,8,10,17,21,22,26" time="379"/>
+  <extract doc="text29.txt" author="7eb25f479ff1ed0f24f06a574bcb5526b6c09033" sentences="1,2,3,5,6,7,9,16,19,20,21,27,30,33,39" time="62"/>
+  <extract doc="text60.txt" author="a518f906bcea0c88616a747000e83fcefae7277a" sentences="0,1,4,5,6,8,9,11,13,14,15,16,17,19,20,27,29,31" time="119"/>
+  <extract doc="text52.txt" author="a518f906bcea0c88616a747000e83fcefae7277a" sentences="0,1,3,4,6,7,8,10,12,13,17,18,21,22,25,26" time="116"/>
+  <extract doc="text5.txt" author="a7647bc07b9b0d4718f634d68c0be8694a013269" sentences="0,1,2,7,8,9,11,12,16,20,23,35,38,42,43,46,47" time="172"/>
+  <extract doc="text32.txt" author="5b9280093a9106562e66f59210a45fa83dfb169e" sentences="1,3,5,6,7,9,10,11,13,15,16,18,19,21,24,25,26,27,30,32,33,34,35,36,38,54,55,59,61,62" time="427"/>
+  <extract doc="text8.txt" author="a518f906bcea0c88616a747000e83fcefae7277a" sentences="0,1,3,8,12,13,18,19,22,25,30,32" time="315"/>
+  <extract doc="text18.txt" author="c57d213e05bb062af43ee75299bc4758540cb150" sentences="1,2,3,6,9,10,11,12,15,16,17,20,25,27,28,29,30,31,33,35,36,48,51,52,53,54,55,57,58,59,63,68,71,72,74,77,78" time="375"/>
+  <extract doc="text36.txt" author="ea2abc30d5b338223b13b1ac4ea4e538e8058d97" sentences="0,1,3,4,5,7,9,17,18,20,24,25,26,27,29,30,33,34" time="98"/>
+  <extract doc="text60.txt" author="be71acac1c3a9b5ea416b73194454dddc334b20d" sentences="0,1,4,5,6,8,9,11,13,15,16,17,20,22,24,25,27,28,29,31" time="1423058552"/>
+  <extract doc="text32.txt" author="fab6e38637d72a3aa544456cbb04bc86ec743d2a" sentences="1,3,5,6,7,9,10,11,13,15,17,19,21,22,24,26,28,29,30,35,36,38,40,42,44,45,54,55,58,59" time="1423058891"/>
+  <extract doc="text5.txt" author="d6e0e01c4cba23b212b0db875590ff1e39e58a74" sentences="0,1,2,3,4,7,8,9,10,11,12,15,16,19,20,21,22,23,35,38,40,41,42,44,47" time="467"/>
+  <extract doc="text18.txt" author="9f88d2fbf0b081b8cc145e14de2b5bd7eaa7dcac" sentences="1,3,4,5,6,8,9,11,12,13,15,16,17,20,21,22,24,25,33,34,35,36,37,38,39,46,47,48,49,51,53,54,55,57,59,60,63,68,71,72,74,77,80" time="486"/>
+  <extract doc="text52.txt" author="ab188d58bbd16a8b975f9d20be181fa0e148422b" sentences="0,1,3,4,5,6,8,9,10,12,13,14,17,21,22,25,26" time="636"/>
+  <extract doc="text8.txt" author="4276f73873481357ef199826f790de7fa31b8991" sentences="0,1,2,3,4,6,7,9,12,13,18,19,21,22,23,25,30,32" time="567"/>
+  <extract doc="text10.txt" author="0a3ba0744a62ad2333c2a58981e6f52fc1e03e72" sentences="1,2,3,4,8,14,23,24,25,33,41,42,43,44,45,46,48,50,51,60,63,64,65,66,67,68,74" time="286"/>
+  <extract doc="text29.txt" author="c8910cec87a50c90134e1ecba795e57cb47d0706" sentences="1,2,3,5,9,10,12,16,17,20,22,23,27,28,29,31,33,34,36,39,40" time="368"/>
+  <extract doc="text60.txt" author="105411cf70e40b84e3db35454887458a5b7d4bdf" sentences="0,1,3,5,6,7,8,9,11,13,14,15,16,17,29,31" time="124"/>
+  <extract doc="text32.txt" author="eda94703903bf40541c46271f8c644cc6c0eb38a" sentences="1,3,4,6,7,9,10,11,12,13,15,16,19,21,22,26,28,30,33,34,35,40,41,54,55,58,59,62" time="715"/>
+  <extract doc="text18.txt" author="a771624ca3188ff2d25e59261f0569d9b6c8d335" sentences="1,2,3,6,8,9,10,11,12,15,16,17,18,20,34,35,36,38,39,40,46,47,48,49,51,52,53,54,59,60,63,68,71,72,74,77,78,81,82" time="930"/>
+  <extract doc="text5.txt" author="7f39afa9d4e6d93610f14f19a0db73ae40ab8569" sentences="0,1,2,4,6,7,10,11,12,13,15,16,19,20,23,24,26,35,38,39,42,44,45,47" time="605"/>
+  <extract doc="text36.txt" author="c22b5e8fb6943d2272863f5470757c505d34779c" sentences="0,1,4,5,6,7,9,10,11,15,17,18,20,23,24,25,27,28,29,30,33,34,35" time="726"/>
+  <extract doc="text52.txt" author="e90f741f541f9627a8eb9dd505bc1e1ac639a743" sentences="0,2,3,4,6,7,8,10,12,13,17,18,21,22,23,25,26" time="266"/>
+  <extract doc="text8.txt" author="fab6e38637d72a3aa544456cbb04bc86ec743d2a" sentences="0,1,3,8,9,11,12,13,15,16,18,19,20,21,22,25,29,30,32" time="315"/>
+  <extract doc="text29.txt" author="ce0356632a907afcbdabb812364218f955b23191" sentences="1,2,5,3,9,10,16,20,21,22,27,28,31,33,39,41" time="444"/>
+  <extract doc="text60.txt" author="32f806a782d6cb4a30875974c0425fc7f6940aed" sentences="0,1,3,4,5,6,8,9,11,12,13,15,16,17,20,21,24,27,29,31" time="246"/>
+  <extract doc="text32.txt" author="105411cf70e40b84e3db35454887458a5b7d4bdf" sentences="1,2,3,4,6,10,11,12,13,15,16,17,19,21,22,26,30,35,36,38,39,40,46,54,55,58,59,62,63" time="645"/>
+  <extract doc="text5.txt" author="6f5f8c311eef37c198f1c8b461591847657730d1" sentences="0,1,2,4,6,7,10,11,12,13,15,20,21,22,23,35,38,39,44,46,47" time="730"/>
+  <extract doc="text18.txt" author="eda94703903bf40541c46271f8c644cc6c0eb38a" sentences="1,2,6,11,12,14,15,16,17,18,20,25,27,28,29,30,32,33,34,35,36,37,38,46,47,48,49,51,59,63,71,72,73,74,77,78,80,82" time="1189"/>
+  <extract doc="text36.txt" author="34403ed7912bec03147b222a3dfa4a2fce595f38" sentences="0,1,4,5,7,8,9,10,11,16,17,18,20,22,23,24,26,27,34,35" time="421"/>
+  <extract doc="text8.txt" author="7b162d9e32761a6fcbae5dfbd3818cf245f70cb9" sentences="0,2,4,6,8,9,13,14,18,19,21,22,23,24" time="576"/>
+  <extract doc="text10.txt" author="7eb25f479ff1ed0f24f06a574bcb5526b6c09033" sentences="0,1,2,3,6,8,9,11,14,19,20,23,42,43,44,45,46,50,60,63,68,69,74,77,79,80,81,82" time="871"/>
+  <extract doc="text29.txt" author="224c7d4917eae91c814f54d1bcf4d83ae5dcd2e3" sentences="1,2,3,5,8,16,18,19,22,27,28,31,33,39" time="332"/>
+  <extract doc="text52.txt" author="5b9280093a9106562e66f59210a45fa83dfb169e" sentences="0,2,6,7,8,10,17,21,22,26" time="550"/>
+  <extract doc="text41.txt" author="eda94703903bf40541c46271f8c644cc6c0eb38a" sentences="0,1,4,5,21,27,28,33,35,40,41,42,43,46,47,52,53,55,66,69,72,74,81,82,85,93,99,107,111" time="96"/>
+  <extract doc="text29.txt" author="54828b7ecbaf118fa6e2300645d6c4d6716d8296" sentences="1,2,3,5,6,7,9,16,19,20,21,27,30,33,39" time="365"/>
+  <extract doc="text60.txt" author="32548500974529dc60dd1e7142acdcafb5057e10" sentences="0,1,4,5,6,8,9,11,13,14,15,16,17,19,20,27,29,31" time="128"/>
+  <extract doc="text52.txt" author="7eb25f479ff1ed0f24f06a574bcb5526b6c09033" sentences="0,1,3,4,6,7,8,10,12,13,17,18,21,22,25,26" time="293"/>
+  <extract doc="text5.txt" author="a7647bc07b9b0d4718f634d68c0be8694a013269" sentences="0,1,2,7,8,9,11,12,16,20,23,35,38,42,44,46,47" time="492"/>
+  <extract doc="text32.txt" author="9001aeaaa669e728b673555f85167b918f587d17" sentences="1,3,5,6,7,9,10,11,13,15,16,18,19,21,24,25,26,27,30,32,33,34,35,36,38,54,55,59,61,62" time="207"/>
+  <extract doc="text8.txt" author="a518f906bcea0c88616a747000e83fcefae7277a" sentences="0,1,3,8,12,13,18,19,22,25,30,32" time="87"/>
+  <extract doc="text18.txt" author="c57d213e05bb062af43ee75299bc4758540cb150" sentences="1,2,3,6,9,10,11,12,15,16,17,20,25,27,28,29,30,31,33,35,36,48,51,52,53,54,55,57,58,59,63,68,71,72,74,77,78" time="407"/>
+  <extract doc="text10.txt" author="f1b8b33b07608b86a4f97ae617020b6e54045960" sentences="1,2,4,5,6,8,13,14,22,23,24,41,42,43,45,46,51,55,56,57,58,59,60,63,64,65,66,67,68,74,77" time="393"/>
+  <extract doc="text36.txt" author="ea2abc30d5b338223b13b1ac4ea4e538e8058d97" sentences="0,1,2,4,7,9,14,17,18,20,24,25,26,27,29,30,33,34" time="60"/>
+  <extract doc="text60.txt" author="7eb25f479ff1ed0f24f06a574bcb5526b6c09033" sentences="0,1,4,5,6,8,9,11,13,15,16,17,20,22,24,25,27,28,29,31" time="1423058829"/>
+  <extract doc="text32.txt" author="de8b14b747ee3cdd28d3372e94fe2552782749ca" sentences="1,3,5,6,7,9,10,11,12,13,15,16,19,21,22,24,26,28,30,35,36,38,40,42,44,45,54,55,58,59,62" time="1423058759"/>
+  <extract doc="text41.txt" author="5b9280093a9106562e66f59210a45fa83dfb169e" sentences="1,2,3,4,6,7,8,10,11,12,17,21,24,27,33,34,36,39,41,47,48,49,52,53,54,66,69,71,72,75,81,82,83,86,87,91,93,94,97,99,100,101,103,104,105,107,109,110,111,112,116" time="762"/>
+  <extract doc="text5.txt" author="a7647bc07b9b0d4718f634d68c0be8694a013269" sentences="0,1,2,3,4,7,8,9,10,11,12,15,16,19,20,21,22,23,35,38,40,41,42,44,47" time="450"/>
+  <extract doc="text18.txt" author="1dc71a6cda8c285d9ffdd7f9e090e64aa4f1f99a" sentences="1,3,4,5,6,8,9,11,12,13,15,16,17,20,21,22,24,25,33,34,35,36,37,38,39,46,47,48,49,51,53,54,55,57,59,60,63,68,71,72,74,77,80" time="505"/>
+  <extract doc="text52.txt" author="98a65f4fe41851fd384f9b9fff24f8a5cb28a8f2" sentences="0,1,3,4,5,6,8,9,10,12,13,14,17,21,22,25,26" time="368"/>
+  <extract doc="text8.txt" author="7447f5e239a72d3edbd2bc5b17b17d8a65bd7e72" sentences="0,1,2,3,4,6,7,9,12,13,18,19,21,22,23,25,30,32" time="454"/>
+  <extract doc="text10.txt" author="39d49c5c707774d1cc404badcc9b73e3f4c9b902" sentences="1,2,3,4,8,14,23,24,33,41,42,43,44,45,46,48,50,51,60,63,64,65,66,67,68,74,77" time="712"/>
+  <extract doc="text29.txt" author="a771624ca3188ff2d25e59261f0569d9b6c8d335" sentences="1,2,3,5,9,10,12,16,17,20,22,23,27,28,29,31,33,34,36,39,40" time="607"/>
+  <extract doc="text60.txt" author="54828b7ecbaf118fa6e2300645d6c4d6716d8296" sentences="0,1,3,5,6,7,8,9,11,13,14,15,16,17,29,31" time="383"/>
+  <extract doc="text32.txt" author="eda94703903bf40541c46271f8c644cc6c0eb38a" sentences="1,3,4,6,7,9,10,11,12,13,15,16,19,21,22,26,28,30,33,34,35,40,41,54,55,58,59,62" time="263"/>
+  <extract doc="text41.txt" author="9ae9b93d68f9a491b91eb05ff86a0fb96dad2bef" sentences="1,2,3,4,5,6,7,8,9,21,22,24,27,31,32,33,36,40,41,66,68,71,72,74,75,81,82,85,86,87,88,93,97,98,99,101,104,105,107,110,111,112,115,116" time="670"/>
+  <extract doc="text18.txt" author="eda94703903bf40541c46271f8c644cc6c0eb38a" sentences="1,2,3,6,8,9,10,11,12,15,16,17,18,20,34,35,36,38,39,40,46,47,48,49,51,52,53,54,59,60,63,68,71,72,74,77,78,81,82" time="628"/>
+  <extract doc="text5.txt" author="c57d213e05bb062af43ee75299bc4758540cb150" sentences="0,1,2,4,6,7,10,11,12,13,15,16,19,20,23,24,26,35,38,39,42,44,45,47" time="312"/>
+  <extract doc="text36.txt" author="9f88d2fbf0b081b8cc145e14de2b5bd7eaa7dcac" sentences="0,1,4,5,6,7,9,10,11,15,17,18,20,23,24,25,27,28,29,30,33,34,35" time="581"/>
+  <extract doc="text52.txt" author="ce0356632a907afcbdabb812364218f955b23191" sentences="0,2,3,4,6,7,8,10,12,13,17,18,21,22,23,25,26" time="164"/>
+  <extract doc="text8.txt" author="224c7d4917eae91c814f54d1bcf4d83ae5dcd2e3" sentences="0,1,3,8,9,11,12,13,15,16,18,19,20,21,22,25,29,30,32" time="186"/>
+  <extract doc="text29.txt" author="32f806a782d6cb4a30875974c0425fc7f6940aed" sentences="1,2,5,3,9,10,16,20,21,22,27,28,31,33,39,41" time="260"/>
+  <extract doc="text60.txt" author="e90f741f541f9627a8eb9dd505bc1e1ac639a743" sentences="0,1,3,4,5,6,8,9,11,12,13,15,16,17,20,21,24,27,29,31" time="421"/>
+  <extract doc="text32.txt" author="105411cf70e40b84e3db35454887458a5b7d4bdf" sentences="1,3,4,5,7,10,11,12,13,15,16,17,19,21,22,26,30,35,36,38,39,40,46,54,55,58,59,62,63" time="542"/>
+  <extract doc="text41.txt" author="105411cf70e40b84e3db35454887458a5b7d4bdf" sentences="1,2,3,4,5,6,7,10,11,21,22,24,27,28,31,33,35,36,40,41,42,55,63,65,66,68,69,71,72,74,75,82,93,94,97,98,99,104,105,107,109,111,112,115,116" time="641"/>
+  <extract doc="text5.txt" author="c22b5e8fb6943d2272863f5470757c505d34779c" sentences="0,1,2,4,6,7,10,11,12,13,15,20,21,22,23,35,38,39,44,46,47" time="487"/>
+  <extract doc="text18.txt" author="109848b5727f66e435ad36b5ebab3bfa7d41b131" sentences="1,2,6,11,12,14,15,16,17,18,20,25,27,28,29,30,31,32,33,34,35,36,37,38,46,47,48,49,51,59,63,71,72,73,74,77,78,80,82" time="1266"/>
+  <extract doc="text36.txt" author="9edb98fcb87d9a1f06ea1cf608a40a984b8e62c1" sentences="0,1,4,5,7,8,9,10,11,16,17,18,20,22,23,24,26,27,34,35" time="420"/>
+  <extract doc="text8.txt" author="515bead78bc8323aca33cebb114246284041947f" sentences="0,2,4,6,8,9,13,14,18,19,21,22,23,24" time="768"/>
+  <extract doc="text29.txt" author="65cf67fec0a318bdd270a1bb0c199a216ac8a100" sentences="1,2,3,5,8,16,18,19,22,27,28,31,33,39" time="450"/>
 </extracts>
