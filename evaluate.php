@@ -75,7 +75,7 @@ foreach ($modelExtracts as $docName => $models) {
 
     file_put_contents($clusterDirPath.'/TEXT1.txt', file_get_contents($processedFile));
 
-    $mode = 'default';
+    $mode = 'ner';
     $cmd = sprintf('php %s %s %s', $scriptPath, $clusterDirPath, $mode);
 
     echo shell_exec($cmd);
